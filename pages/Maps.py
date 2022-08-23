@@ -21,6 +21,10 @@ teams = st.multiselect(
     "Choose teams", list(df.index.unique().sort_values(ascending=True))
 )
 
+maps = st.multiselect(
+    "Choose maps", list(df['MapName'].sort_values(ascending=True).unique())
+)
+
 if not teams:
     st.error("Please select at least one team.")
 else:
