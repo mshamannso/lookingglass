@@ -18,7 +18,7 @@ def load_data() -> pd.DataFrame:
 
 df = load_data()
 teams = st.multiselect(
-    "Choose teams", list(df.index.unique())
+    "Choose teams", list(df.index.unique().sort_values(ascending=True))
 )
 
 if not teams:
