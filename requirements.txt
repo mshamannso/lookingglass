@@ -9,3 +9,4 @@ sqlacodegen
 streamlit
 sklearn
 Altair
+plotly

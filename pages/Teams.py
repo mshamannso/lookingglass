@@ -40,6 +40,7 @@ def load_team_hero_data() -> pd.DataFrame:
     data_frame.set_index('TeamName', inplace=True)
     return data_frame
 
+
 @st.cache
 def load_player_hero_data() -> pd.DataFrame:
     path = './data/TeamMemberHeroTotal.csv'
@@ -72,6 +73,11 @@ else:
     players = st.sidebar.multiselect(
         "Choose players", list(data['Battletag'].sort_values(ascending=True).unique())
     )
+
+    heroes = st.sidebar.multiselect(
+        "Choose heroes", list(replay_df['HeroName'].sort_values(ascending=True).unique())
+    )
+
     game_type_data = game_type_df.loc[teams]
     team_hero_data = team_hero_df.loc[teams]
     # replay_data = replay_data.loc[((replay_data.loc[teams]))]
@@ -106,7 +112,11 @@ else:
     if not players:
         players = list(data['Battletag'].sort_values(ascending=True).unique())
 
-    data = data[data.Battletag.isin(players)]
+    if not heroes:
+        heroes = list(replay_df['HeroName'].sort_values(ascending=True).unique())
+
+
+    data = data[data.Battletag.str.lower().isin(players)]
     player_heroes = load_player_hero_data()
     player_heroes = player_heroes[player_heroes.Battletag.isin(players)]
 
@@ -155,6 +165,7 @@ else:
     replay_data = replay_data.loc[
         (replay_data.MapName.isin(maps)) &
         (replay_data.NewRole.isin(roles)) &
+        (replay_data.HeroName.isin(heroes)) &
         (replay_data.Battletag.str.lower().isin(players))
         ]
     replay_data = replay_data.reset_index()[[*replay_cols]]
@@ -173,6 +184,11 @@ else:
 
     st.header('Team Heroes')
     team_hero_cols = ['HeroName', 'NewRole', 'Games', 'Wins', 'WinRate']
+    team_hero_df = team_hero_df.loc[teams]
+    team_hero_df = team_hero_df.loc[
+        (team_hero_df.NewRole.isin(roles)) &
+        (team_hero_df.HeroName.isin(heroes))
+        ]
     team_hero_df = team_hero_df.reset_index()[[*team_hero_cols]]
     team_hero_df.set_index('HeroName', inplace=True)
     st.write(team_hero_df)

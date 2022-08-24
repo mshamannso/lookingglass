@@ -17,19 +17,31 @@ def load_data() -> pd.DataFrame:
 
 
 df = load_data()
-teams = st.multiselect(
+teams = st.sidebar.multiselect(
     "Choose teams", list(df.index.unique().sort_values(ascending=True))
 )
 
-maps = st.multiselect(
+maps = st.sidebar.multiselect(
     "Choose maps", list(df['MapName'].sort_values(ascending=True).unique())
 )
 
+map_cols = [
+    'TeamName'
+    , 'MapName'
+    , 'Games'
+    , 'Wins'
+    , 'WinRate'
+]
+
 if not teams:
-    st.error("Please select at least one team.")
+    st.sidebar.error("Please select at least one team.")
 else:
     data = df.loc[teams]
+    if not maps:
+        maps = list(data['MapName'].sort_values(ascending=True).unique())
 
+    data = data.loc[data.MapName.isin(maps)].reset_index()[[*map_cols]]
+    data.set_index('TeamName', inplace=True)
     data.reset_index(inplace=True)
     chart = (
         alt.Chart(data)
