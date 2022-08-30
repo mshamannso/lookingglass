@@ -1,7 +1,10 @@
+import datetime
+
 import streamlit as st
 import pandas as pd
 import altair as alt
 from urllib.error import URLError
+from datetime import datetime
 
 st.set_page_config(page_title="Team Data", page_icon="📊")
 
@@ -81,7 +84,6 @@ else:
     game_type_data = game_type_df.loc[teams]
     team_hero_data = team_hero_df.loc[teams]
 
-
     if not maps:
         maps = list(replay_df['MapName'].sort_values(ascending=True).unique())
 
@@ -153,17 +155,22 @@ else:
         , 'DPS'
     ]
     data.reset_index(inplace=True)
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
 
     total_games = game_type_data['Games'].sum()
     win_rate = (round((game_type_data['Wins'].sum() / total_games) * 100, 2))
     avg_account_level = int(round(data[['TeamName', 'AccountLevel']].mean()['AccountLevel'], 0))
+
+    first_played_together = datetime.strptime(data['FirstPlayed'][0], "%Y-%m-%d %H:%M:%S").strftime('%Y-%m-%d')
+    last_played_together = datetime.strptime(data['LastPlayed'][0], "%Y-%m-%d %H:%M:%S").strftime('%Y-%m-%d')
 
     col1.metric("Total Players", len(data))
     col1.metric("Total Games", total_games)
     col2.metric("Avg Account Level", avg_account_level)
     col2.metric("Win Rate", win_rate)
     col3.metric("Avg Team Rank", data[['TeamName', 'TeamRank']].max()['TeamRank'])
+    col4.metric('First Played Together (utc)', first_played_together)
+    col4.metric('Last Played Together (utc)', last_played_together)
 
     replay_data = replay_df.loc[teams]
     replay_data = replay_data.loc[
@@ -234,7 +241,7 @@ else:
         .encode(
             x="PlayerGames:Q",
             y=alt.Y("HeroName:N"),
-            color="Battletag:N" 
+            color="Battletag:N"
         )
     )
     st.altair_chart(hero_chart, use_container_width=True)
@@ -265,7 +272,6 @@ else:
         , 'DamageTaken'
         , 'TimeSpentDead'
     ]
-
 
     player_cols = player_cols + player_metrics
     player_heroes = player_heroes.reset_index()[[*player_cols]]
