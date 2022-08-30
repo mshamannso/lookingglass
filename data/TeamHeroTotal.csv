@@ -1,519 +1,541 @@
 ,TeamName,HeroName,NewRole,Games,Wins,WinRate
 0,30 seconds to mosh,Anduin,Healer,51,28,0.55
-1,30 seconds to mosh,Anub'arak,Tank,17,9,0.53
-2,30 seconds to mosh,Artanis,Bruiser,9,4,0.44
+1,30 seconds to mosh,Anub'arak,Tank,19,11,0.58
+2,30 seconds to mosh,Artanis,Bruiser,10,5,0.5
 3,30 seconds to mosh,Auriel,Healer,1,0,0.0
 4,30 seconds to mosh,Azmodan,Ranged Assassin,5,2,0.4
-5,30 seconds to mosh,Blaze,Tank,26,14,0.54
-6,30 seconds to mosh,Brightwing,Healer,35,16,0.46
-7,30 seconds to mosh,Cassia,Ranged Assassin,26,18,0.69
-8,30 seconds to mosh,Chromie,Ranged Assassin,7,3,0.43
-9,30 seconds to mosh,D.Va,Bruiser,17,6,0.35
-10,30 seconds to mosh,Deathwing,Bruiser,2,1,0.5
-11,30 seconds to mosh,Deckard,Healer,6,3,0.5
-12,30 seconds to mosh,Dehaka,Bruiser,20,9,0.45
-13,30 seconds to mosh,Diablo,Tank,19,8,0.42
-14,30 seconds to mosh,E.T.C.,Tank,15,9,0.6
-15,30 seconds to mosh,Falstad,Ranged Assassin,9,3,0.33
-16,30 seconds to mosh,Garrosh,Tank,15,9,0.6
-17,30 seconds to mosh,Gazlowe,Bruiser,18,8,0.44
-18,30 seconds to mosh,Genji,Ranged Assassin,7,4,0.57
-19,30 seconds to mosh,Greymane,Ranged Assassin,18,8,0.44
-20,30 seconds to mosh,Gul'dan,Ranged Assassin,3,1,0.33
-21,30 seconds to mosh,Hanzo,Ranged Assassin,11,4,0.36
-22,30 seconds to mosh,Hogger,Bruiser,6,2,0.33
-23,30 seconds to mosh,Imperius,Bruiser,5,1,0.2
-24,30 seconds to mosh,Jaina,Ranged Assassin,55,30,0.55
-25,30 seconds to mosh,Johanna,Tank,43,22,0.51
-26,30 seconds to mosh,Junkrat,Ranged Assassin,2,0,0.0
-27,30 seconds to mosh,Kael'thas,Ranged Assassin,2,1,0.5
-28,30 seconds to mosh,Leoric,Bruiser,48,31,0.65
-29,30 seconds to mosh,Li Li,Healer,1,0,0.0
-30,30 seconds to mosh,Li-Ming,Ranged Assassin,12,5,0.42
-31,30 seconds to mosh,Lt. Morales,Healer,2,2,1.0
-32,30 seconds to mosh,Lunara,Ranged Assassin,35,19,0.54
-33,30 seconds to mosh,Lúcio,Healer,13,6,0.46
-34,30 seconds to mosh,Maiev,Melee Assassin,1,0,0.0
-35,30 seconds to mosh,Mal'Ganis,Tank,3,1,0.33
-36,30 seconds to mosh,Malfurion,Healer,1,0,0.0
-37,30 seconds to mosh,Malthael,Bruiser,2,1,0.5
-38,30 seconds to mosh,Mei,Tank,4,2,0.5
-39,30 seconds to mosh,Mephisto,Ranged Assassin,3,0,0.0
-40,30 seconds to mosh,Muradin,Tank,46,25,0.54
-41,30 seconds to mosh,Murky,Melee Assassin,2,0,0.0
-42,30 seconds to mosh,Nazeebo,Ranged Assassin,5,2,0.4
-43,30 seconds to mosh,Nova,Ranged Assassin,1,0,0.0
-44,30 seconds to mosh,Orphea,Ranged Assassin,14,7,0.5
-45,30 seconds to mosh,Probius,Ranged Assassin,8,4,0.5
-46,30 seconds to mosh,Ragnaros,Bruiser,1,0,0.0
-47,30 seconds to mosh,Raynor,Ranged Assassin,8,4,0.5
-48,30 seconds to mosh,Rehgar,Healer,32,16,0.5
-49,30 seconds to mosh,Rexxar,Bruiser,3,2,0.67
-50,30 seconds to mosh,Sgt. Hammer,Ranged Assassin,5,1,0.2
-51,30 seconds to mosh,Sonya,Bruiser,59,34,0.58
-52,30 seconds to mosh,Stitches,Tank,5,2,0.4
-53,30 seconds to mosh,Stukov,Healer,63,34,0.54
-54,30 seconds to mosh,Sylvanas,Ranged Assassin,33,16,0.48
-55,30 seconds to mosh,Tassadar,Ranged Assassin,6,3,0.5
-56,30 seconds to mosh,The Butcher,Melee Assassin,1,0,0.0
-57,30 seconds to mosh,Thrall,Bruiser,2,1,0.5
-58,30 seconds to mosh,Tychus,Ranged Assassin,23,16,0.7
-59,30 seconds to mosh,Tyrael,Tank,10,4,0.4
-60,30 seconds to mosh,Uther,Healer,2,2,1.0
-61,30 seconds to mosh,Valeera,Melee Assassin,1,0,0.0
-62,30 seconds to mosh,Valla,Ranged Assassin,35,20,0.57
-63,30 seconds to mosh,Varian,Bruiser,64,37,0.58
-64,30 seconds to mosh,Whitemane,Healer,1,1,1.0
-65,30 seconds to mosh,Xul,Bruiser,3,0,0.0
-66,30 seconds to mosh,Yrel,Bruiser,1,0,0.0
-67,30 seconds to mosh,Zagara,Ranged Assassin,1,0,0.0
-68,30 seconds to mosh,Zarya,Support,4,2,0.5
-69,30 seconds to mosh,Zeratul,Melee Assassin,1,0,0.0
-70,30 seconds to mosh,Zul'jin,Ranged Assassin,20,12,0.6
-71,beyonce gnolls,Anduin,Healer,6,3,0.5
-72,beyonce gnolls,Anub'arak,Tank,2,1,0.5
-73,beyonce gnolls,Azmodan,Ranged Assassin,1,0,0.0
-74,beyonce gnolls,Blaze,Tank,4,2,0.5
-75,beyonce gnolls,Brightwing,Healer,1,0,0.0
-76,beyonce gnolls,Cassia,Ranged Assassin,2,1,0.5
-77,beyonce gnolls,Dehaka,Bruiser,6,2,0.33
-78,beyonce gnolls,Diablo,Tank,5,3,0.6
-79,beyonce gnolls,Falstad,Ranged Assassin,2,1,0.5
-80,beyonce gnolls,Greymane,Ranged Assassin,5,3,0.6
-81,beyonce gnolls,Gul'dan,Ranged Assassin,1,1,1.0
-82,beyonce gnolls,Hogger,Bruiser,2,0,0.0
-83,beyonce gnolls,Jaina,Ranged Assassin,1,1,1.0
-84,beyonce gnolls,Johanna,Tank,2,0,0.0
-85,beyonce gnolls,Leoric,Bruiser,3,2,0.67
-86,beyonce gnolls,Li Li,Healer,1,0,0.0
-87,beyonce gnolls,Lunara,Ranged Assassin,5,1,0.2
-88,beyonce gnolls,Malfurion,Healer,2,1,0.5
-89,beyonce gnolls,Muradin,Tank,4,2,0.5
-90,beyonce gnolls,Nazeebo,Ranged Assassin,4,2,0.5
-91,beyonce gnolls,Orphea,Ranged Assassin,2,1,0.5
-92,beyonce gnolls,Raynor,Ranged Assassin,2,0,0.0
-93,beyonce gnolls,Rehgar,Healer,5,3,0.6
-94,beyonce gnolls,Rexxar,Bruiser,3,3,1.0
-95,beyonce gnolls,Samuro,Melee Assassin,2,1,0.5
-96,beyonce gnolls,Stukov,Healer,5,2,0.4
-97,beyonce gnolls,Tassadar,Ranged Assassin,5,3,0.6
-98,beyonce gnolls,Thrall,Bruiser,1,0,0.0
-99,beyonce gnolls,Tychus,Ranged Assassin,11,6,0.55
-100,beyonce gnolls,Uther,Healer,2,1,0.5
-101,beyonce gnolls,Valla,Ranged Assassin,1,0,0.0
-102,beyonce gnolls,Varian,Bruiser,6,4,0.67
-103,beyonce gnolls,Yrel,Bruiser,1,0,0.0
-104,bunker fun time academy,Anub'arak,Tank,1,1,1.0
-105,bunker fun time academy,Blaze,Tank,2,2,1.0
-106,bunker fun time academy,Dehaka,Bruiser,1,1,1.0
-107,bunker fun time academy,Kael'thas,Ranged Assassin,1,1,1.0
-108,bunker fun time academy,Nazeebo,Ranged Assassin,1,1,1.0
-109,bunker fun time academy,Ragnaros,Bruiser,1,1,1.0
-110,bunker fun time academy,Stukov,Healer,1,1,1.0
-111,bunker fun time academy,Tassadar,Ranged Assassin,2,2,1.0
-112,bunker fun time academy,Tychus,Ranged Assassin,1,1,1.0
-113,bunker fun time academy,Tyrande,Healer,2,2,1.0
-114,bunker fun time academy,Varian,Bruiser,2,2,1.0
-115,chogall chocolate factory,Alexstrasza,Healer,1,1,1.0
-116,chogall chocolate factory,Anduin,Healer,2,1,0.5
-117,chogall chocolate factory,Anub'arak,Tank,1,1,1.0
-118,chogall chocolate factory,Azmodan,Ranged Assassin,5,4,0.8
-119,chogall chocolate factory,Blaze,Tank,1,0,0.0
-120,chogall chocolate factory,Brightwing,Healer,5,5,1.0
-121,chogall chocolate factory,D.Va,Bruiser,1,0,0.0
-122,chogall chocolate factory,Deathwing,Bruiser,2,2,1.0
-123,chogall chocolate factory,Diablo,Tank,2,2,1.0
-124,chogall chocolate factory,E.T.C.,Tank,2,2,1.0
-125,chogall chocolate factory,Falstad,Ranged Assassin,1,1,1.0
-126,chogall chocolate factory,Fenix,Ranged Assassin,1,1,1.0
-127,chogall chocolate factory,Garrosh,Tank,3,2,0.67
-128,chogall chocolate factory,Gazlowe,Bruiser,4,3,0.75
-129,chogall chocolate factory,Greymane,Ranged Assassin,6,5,0.83
-130,chogall chocolate factory,Hogger,Bruiser,2,1,0.5
-131,chogall chocolate factory,Jaina,Ranged Assassin,3,2,0.67
-132,chogall chocolate factory,Johanna,Tank,3,1,0.33
-133,chogall chocolate factory,Junkrat,Ranged Assassin,1,1,1.0
-134,chogall chocolate factory,Leoric,Bruiser,2,1,0.5
-135,chogall chocolate factory,Li-Ming,Ranged Assassin,2,1,0.5
-136,chogall chocolate factory,Maiev,Melee Assassin,1,1,1.0
-137,chogall chocolate factory,Mal'Ganis,Tank,1,1,1.0
-138,chogall chocolate factory,Malfurion,Healer,1,1,1.0
-139,chogall chocolate factory,Malthael,Bruiser,1,1,1.0
-140,chogall chocolate factory,Muradin,Tank,2,2,1.0
-141,chogall chocolate factory,Probius,Ranged Assassin,1,0,0.0
-142,chogall chocolate factory,Sonya,Bruiser,3,2,0.67
-143,chogall chocolate factory,Stukov,Healer,4,3,0.75
-144,chogall chocolate factory,Tassadar,Ranged Assassin,4,4,1.0
-145,chogall chocolate factory,Tychus,Ranged Assassin,1,0,0.0
-146,chogall chocolate factory,Uther,Healer,1,0,0.0
-147,chogall chocolate factory,Valla,Ranged Assassin,1,1,1.0
-148,chogall chocolate factory,Varian,Bruiser,2,1,0.5
-149,chogall chocolate factory,Whitemane,Healer,1,0,0.0
-150,chogall chocolate factory,Xul,Bruiser,1,1,1.0
-151,ff & the pancakes,Abathur,Support,12,7,0.58
-152,ff & the pancakes,Alexstrasza,Healer,1,1,1.0
-153,ff & the pancakes,Ana,Healer,1,1,1.0
-154,ff & the pancakes,Anduin,Healer,17,6,0.35
-155,ff & the pancakes,Anub'arak,Tank,9,4,0.44
-156,ff & the pancakes,Artanis,Bruiser,14,8,0.57
-157,ff & the pancakes,Arthas,Tank,12,9,0.75
-158,ff & the pancakes,Auriel,Healer,11,7,0.64
-159,ff & the pancakes,Azmodan,Ranged Assassin,14,5,0.36
-160,ff & the pancakes,Blaze,Tank,20,13,0.65
-161,ff & the pancakes,Brightwing,Healer,11,2,0.18
-162,ff & the pancakes,Cassia,Ranged Assassin,27,18,0.67
-163,ff & the pancakes,Chromie,Ranged Assassin,1,0,0.0
-164,ff & the pancakes,D.Va,Bruiser,10,4,0.4
-165,ff & the pancakes,Deathwing,Bruiser,29,14,0.48
-166,ff & the pancakes,Deckard,Healer,34,19,0.56
-167,ff & the pancakes,Dehaka,Bruiser,39,19,0.49
-168,ff & the pancakes,Diablo,Tank,36,15,0.42
-169,ff & the pancakes,E.T.C.,Tank,12,6,0.5
-170,ff & the pancakes,Falstad,Ranged Assassin,19,6,0.32
-171,ff & the pancakes,Fenix,Ranged Assassin,28,16,0.57
-172,ff & the pancakes,Gazlowe,Bruiser,29,19,0.66
-173,ff & the pancakes,Genji,Ranged Assassin,2,0,0.0
-174,ff & the pancakes,Gul'dan,Ranged Assassin,1,1,1.0
-175,ff & the pancakes,Hanzo,Ranged Assassin,4,2,0.5
-176,ff & the pancakes,Hogger,Bruiser,1,0,0.0
-177,ff & the pancakes,Illidan,Melee Assassin,33,21,0.64
-178,ff & the pancakes,Imperius,Bruiser,4,0,0.0
-179,ff & the pancakes,Jaina,Ranged Assassin,39,17,0.44
-180,ff & the pancakes,Johanna,Tank,84,51,0.61
-181,ff & the pancakes,Junkrat,Ranged Assassin,3,2,0.67
-182,ff & the pancakes,Kael'thas,Ranged Assassin,19,13,0.68
-183,ff & the pancakes,Kel'Thuzad,Ranged Assassin,28,13,0.46
-184,ff & the pancakes,Kerrigan,Melee Assassin,7,6,0.86
-185,ff & the pancakes,Kharazim,Healer,2,2,1.0
-186,ff & the pancakes,Leoric,Bruiser,53,30,0.57
-187,ff & the pancakes,Li Li,Healer,9,4,0.44
-188,ff & the pancakes,Li-Ming,Ranged Assassin,10,6,0.6
-189,ff & the pancakes,Lt. Morales,Healer,3,1,0.33
-190,ff & the pancakes,Lunara,Ranged Assassin,11,3,0.27
-191,ff & the pancakes,Lúcio,Healer,67,42,0.63
-192,ff & the pancakes,Maiev,Melee Assassin,36,21,0.58
-193,ff & the pancakes,Mal'Ganis,Tank,12,5,0.42
-194,ff & the pancakes,Malfurion,Healer,21,10,0.48
-195,ff & the pancakes,Malthael,Bruiser,7,4,0.57
-196,ff & the pancakes,Mei,Tank,23,11,0.48
-197,ff & the pancakes,Muradin,Tank,15,5,0.33
-198,ff & the pancakes,Nazeebo,Ranged Assassin,50,22,0.44
-199,ff & the pancakes,Orphea,Ranged Assassin,88,54,0.61
-200,ff & the pancakes,Qhira,Melee Assassin,22,9,0.41
-201,ff & the pancakes,Ragnaros,Bruiser,15,13,0.87
-202,ff & the pancakes,Raynor,Ranged Assassin,3,2,0.67
-203,ff & the pancakes,Rehgar,Healer,86,45,0.52
-204,ff & the pancakes,Rexxar,Bruiser,1,1,1.0
-205,ff & the pancakes,Samuro,Melee Assassin,5,3,0.6
-206,ff & the pancakes,Sonya,Bruiser,1,1,1.0
-207,ff & the pancakes,Stitches,Tank,44,25,0.57
-208,ff & the pancakes,Stukov,Healer,13,7,0.54
-209,ff & the pancakes,Sylvanas,Ranged Assassin,1,0,0.0
-210,ff & the pancakes,Tassadar,Ranged Assassin,41,19,0.46
-211,ff & the pancakes,The Butcher,Melee Assassin,1,1,1.0
-212,ff & the pancakes,Tychus,Ranged Assassin,31,13,0.42
-213,ff & the pancakes,Tyrael,Tank,11,6,0.55
-214,ff & the pancakes,Tyrande,Healer,7,6,0.86
-215,ff & the pancakes,Uther,Healer,31,17,0.55
-216,ff & the pancakes,Valla,Ranged Assassin,25,11,0.44
-217,ff & the pancakes,Varian,Bruiser,12,4,0.33
-218,ff & the pancakes,Whitemane,Healer,9,1,0.11
-219,ff & the pancakes,Xul,Bruiser,27,15,0.56
-220,ff & the pancakes,Zagara,Ranged Assassin,1,0,0.0
-221,ff & the pancakes,Zarya,Support,3,1,0.33
-222,ff & the pancakes,Zeratul,Melee Assassin,48,23,0.48
-223,ff & the pancakes,Zul'jin,Ranged Assassin,4,2,0.5
-224,gold dragons,Abathur,Support,3,2,0.67
-225,gold dragons,Alarak,Melee Assassin,1,0,0.0
-226,gold dragons,Ana,Healer,1,1,1.0
-227,gold dragons,Anduin,Healer,1,0,0.0
-228,gold dragons,Auriel,Healer,1,0,0.0
-229,gold dragons,Deckard,Healer,1,0,0.0
-230,gold dragons,Dehaka,Bruiser,2,0,0.0
-231,gold dragons,Diablo,Tank,1,0,0.0
-232,gold dragons,Hanzo,Ranged Assassin,1,0,0.0
-233,gold dragons,Imperius,Bruiser,1,0,0.0
-234,gold dragons,Jaina,Ranged Assassin,5,1,0.2
-235,gold dragons,Johanna,Tank,1,0,0.0
-236,gold dragons,Kharazim,Healer,1,0,0.0
-237,gold dragons,Li Li,Healer,2,1,0.5
-238,gold dragons,Li-Ming,Ranged Assassin,1,1,1.0
-239,gold dragons,Lúcio,Healer,2,1,0.5
-240,gold dragons,Mal'Ganis,Tank,1,0,0.0
-241,gold dragons,Malfurion,Healer,4,2,0.5
-242,gold dragons,Medivh,Support,1,0,0.0
-243,gold dragons,Mei,Tank,1,0,0.0
-244,gold dragons,Mephisto,Ranged Assassin,1,0,0.0
-245,gold dragons,Muradin,Tank,2,1,0.5
-246,gold dragons,Orphea,Ranged Assassin,1,0,0.0
-247,gold dragons,Ragnaros,Bruiser,1,0,0.0
-248,gold dragons,Raynor,Ranged Assassin,2,1,0.5
-249,gold dragons,Sonya,Bruiser,9,4,0.44
-250,gold dragons,Stitches,Tank,2,0,0.0
-251,gold dragons,Stukov,Healer,2,0,0.0
-252,gold dragons,Tassadar,Ranged Assassin,6,2,0.33
-253,gold dragons,Thrall,Bruiser,2,1,0.5
-254,gold dragons,Tracer,Ranged Assassin,1,0,0.0
-255,gold dragons,Tychus,Ranged Assassin,8,3,0.38
-256,gold dragons,Uther,Healer,1,0,0.0
-257,gold dragons,Valla,Ranged Assassin,1,0,0.0
-258,gold dragons,Varian,Bruiser,8,4,0.5
-259,gold dragons,Xul,Bruiser,1,0,0.0
-260,infernal misfits,Alarak,Melee Assassin,9,9,1.0
-261,infernal misfits,Ana,Healer,1,1,1.0
-262,infernal misfits,Anduin,Healer,5,3,0.6
-263,infernal misfits,Anub'arak,Tank,7,5,0.71
-264,infernal misfits,Artanis,Bruiser,2,0,0.0
-265,infernal misfits,Arthas,Tank,1,0,0.0
-266,infernal misfits,Auriel,Healer,1,1,1.0
-267,infernal misfits,Blaze,Tank,11,9,0.82
-268,infernal misfits,Cho,Tank,2,2,1.0
-269,infernal misfits,D.Va,Bruiser,1,1,1.0
-270,infernal misfits,Deckard,Healer,3,3,1.0
-271,infernal misfits,Diablo,Tank,4,3,0.75
-272,infernal misfits,E.T.C.,Tank,1,1,1.0
-273,infernal misfits,Falstad,Ranged Assassin,1,0,0.0
-274,infernal misfits,Gall,Ranged Assassin,2,2,1.0
-275,infernal misfits,Garrosh,Tank,2,1,0.5
-276,infernal misfits,Gul'dan,Ranged Assassin,6,3,0.5
-277,infernal misfits,Hogger,Bruiser,2,2,1.0
-278,infernal misfits,Imperius,Bruiser,3,3,1.0
-279,infernal misfits,Johanna,Tank,6,5,0.83
-280,infernal misfits,Junkrat,Ranged Assassin,3,1,0.33
-281,infernal misfits,Kael'thas,Ranged Assassin,11,11,1.0
-282,infernal misfits,Kel'Thuzad,Ranged Assassin,9,8,0.89
-283,infernal misfits,Kerrigan,Melee Assassin,6,4,0.67
-284,infernal misfits,Kharazim,Healer,7,7,1.0
-285,infernal misfits,Li Li,Healer,2,2,1.0
-286,infernal misfits,Li-Ming,Ranged Assassin,1,1,1.0
-287,infernal misfits,Lt. Morales,Healer,7,4,0.57
-288,infernal misfits,Maiev,Melee Assassin,3,0,0.0
-289,infernal misfits,Mei,Tank,4,3,0.75
-290,infernal misfits,Murky,Melee Assassin,1,1,1.0
-291,infernal misfits,Nazeebo,Ranged Assassin,1,0,0.0
-292,infernal misfits,Orphea,Ranged Assassin,6,5,0.83
-293,infernal misfits,Qhira,Melee Assassin,2,1,0.5
-294,infernal misfits,Raynor,Ranged Assassin,2,1,0.5
-295,infernal misfits,Rehgar,Healer,1,1,1.0
-296,infernal misfits,Sgt. Hammer,Ranged Assassin,2,1,0.5
-297,infernal misfits,Sonya,Bruiser,2,1,0.5
-298,infernal misfits,Stitches,Tank,2,0,0.0
-299,infernal misfits,Thrall,Bruiser,1,1,1.0
-300,infernal misfits,Tychus,Ranged Assassin,2,1,0.5
-301,infernal misfits,Uther,Healer,1,1,1.0
-302,infernal misfits,Valla,Ranged Assassin,3,2,0.67
-303,infernal misfits,Varian,Bruiser,1,1,1.0
-304,infernal misfits,Whitemane,Healer,5,1,0.2
-305,infernal misfits,Yrel,Bruiser,4,3,0.75
-306,infernal misfits,Zagara,Ranged Assassin,4,3,0.75
-307,infernal misfits,Zul'jin,Ranged Assassin,2,1,0.5
-308,ltk - we hate obj,Alexstrasza,Healer,1,0,0.0
-309,ltk - we hate obj,Anub'arak,Tank,3,1,0.33
-310,ltk - we hate obj,Artanis,Bruiser,1,1,1.0
-311,ltk - we hate obj,Auriel,Healer,2,1,0.5
-312,ltk - we hate obj,Blaze,Tank,1,0,0.0
-313,ltk - we hate obj,Brightwing,Healer,2,1,0.5
-314,ltk - we hate obj,Deathwing,Bruiser,1,0,0.0
-315,ltk - we hate obj,Dehaka,Bruiser,1,0,0.0
-316,ltk - we hate obj,Diablo,Tank,4,4,1.0
-317,ltk - we hate obj,E.T.C.,Tank,2,1,0.5
-318,ltk - we hate obj,Falstad,Ranged Assassin,1,1,1.0
-319,ltk - we hate obj,Gazlowe,Bruiser,8,5,0.62
-320,ltk - we hate obj,Hanzo,Ranged Assassin,1,1,1.0
-321,ltk - we hate obj,Imperius,Bruiser,1,1,1.0
-322,ltk - we hate obj,Jaina,Ranged Assassin,1,0,0.0
-323,ltk - we hate obj,Leoric,Bruiser,3,2,0.67
-324,ltk - we hate obj,Li-Ming,Ranged Assassin,2,1,0.5
-325,ltk - we hate obj,Muradin,Tank,3,2,0.67
-326,ltk - we hate obj,Orphea,Ranged Assassin,5,4,0.8
-327,ltk - we hate obj,Ragnaros,Bruiser,2,2,1.0
-328,ltk - we hate obj,Rehgar,Healer,3,3,1.0
-329,ltk - we hate obj,Sonya,Bruiser,3,3,1.0
-330,ltk - we hate obj,Stukov,Healer,1,1,1.0
-331,ltk - we hate obj,Sylvanas,Ranged Assassin,1,1,1.0
-332,ltk - we hate obj,Tychus,Ranged Assassin,1,1,1.0
-333,ltk - we hate obj,Tyrande,Healer,2,1,0.5
-334,ltk - we hate obj,Valla,Ranged Assassin,2,1,0.5
-335,ltk - we hate obj,Whitemane,Healer,1,1,1.0
-336,ltk - we hate obj,Zul'jin,Ranged Assassin,1,0,0.0
-337,out of pocket,Abathur,Support,1,1,1.0
-338,out of pocket,Alarak,Melee Assassin,1,0,0.0
-339,out of pocket,Ana,Healer,3,2,0.67
-340,out of pocket,Anduin,Healer,2,1,0.5
-341,out of pocket,Anub'arak,Tank,2,1,0.5
-342,out of pocket,Artanis,Bruiser,18,7,0.39
-343,out of pocket,Arthas,Tank,1,0,0.0
-344,out of pocket,Azmodan,Ranged Assassin,10,4,0.4
-345,out of pocket,Brightwing,Healer,11,1,0.09
-346,out of pocket,D.Va,Bruiser,8,2,0.25
-347,out of pocket,Deathwing,Bruiser,10,3,0.3
-348,out of pocket,Deckard,Healer,1,1,1.0
-349,out of pocket,Dehaka,Bruiser,6,0,0.0
-350,out of pocket,Diablo,Tank,7,4,0.57
-351,out of pocket,E.T.C.,Tank,1,0,0.0
-352,out of pocket,Falstad,Ranged Assassin,2,1,0.5
-353,out of pocket,Garrosh,Tank,9,5,0.56
-354,out of pocket,Greymane,Ranged Assassin,2,0,0.0
-355,out of pocket,Gul'dan,Ranged Assassin,3,1,0.33
-356,out of pocket,Imperius,Bruiser,3,0,0.0
-357,out of pocket,Jaina,Ranged Assassin,7,3,0.43
-358,out of pocket,Johanna,Tank,9,3,0.33
-359,out of pocket,Kael'thas,Ranged Assassin,14,4,0.29
-360,out of pocket,Leoric,Bruiser,1,0,0.0
-361,out of pocket,Li Li,Healer,18,5,0.28
-362,out of pocket,Li-Ming,Ranged Assassin,42,12,0.29
-363,out of pocket,Lt. Morales,Healer,3,2,0.67
-364,out of pocket,Lúcio,Healer,2,1,0.5
-365,out of pocket,Mal'Ganis,Tank,1,0,0.0
-366,out of pocket,Mei,Tank,27,7,0.26
-367,out of pocket,Muradin,Tank,14,4,0.29
-368,out of pocket,Murky,Melee Assassin,2,2,1.0
-369,out of pocket,Nazeebo,Ranged Assassin,27,11,0.41
-370,out of pocket,Qhira,Melee Assassin,2,2,1.0
-371,out of pocket,Ragnaros,Bruiser,14,8,0.57
-372,out of pocket,Raynor,Ranged Assassin,6,1,0.17
-373,out of pocket,Rehgar,Healer,18,7,0.39
-374,out of pocket,Rexxar,Bruiser,3,2,0.67
-375,out of pocket,Sgt. Hammer,Ranged Assassin,1,1,1.0
-376,out of pocket,Sonya,Bruiser,1,0,0.0
-377,out of pocket,Stitches,Tank,12,6,0.5
-378,out of pocket,Stukov,Healer,8,4,0.5
-379,out of pocket,Sylvanas,Ranged Assassin,1,0,0.0
-380,out of pocket,Tassadar,Ranged Assassin,1,0,0.0
-381,out of pocket,The Butcher,Melee Assassin,8,2,0.25
-382,out of pocket,Thrall,Bruiser,1,1,1.0
-383,out of pocket,Tychus,Ranged Assassin,18,9,0.5
-384,out of pocket,Tyrande,Healer,10,5,0.5
-385,out of pocket,Uther,Healer,6,0,0.0
-386,out of pocket,Valla,Ranged Assassin,15,3,0.2
-387,out of pocket,Varian,Bruiser,16,5,0.31
-388,out of pocket,Zeratul,Melee Assassin,1,1,1.0
-389,smoke,Anduin,Healer,1,1,1.0
-390,smoke,Brightwing,Healer,3,2,0.67
-391,smoke,Diablo,Tank,1,1,1.0
-392,smoke,Garrosh,Tank,1,0,0.0
-393,smoke,Gazlowe,Bruiser,1,1,1.0
-394,smoke,Gul'dan,Ranged Assassin,1,1,1.0
-395,smoke,Johanna,Tank,1,1,1.0
-396,smoke,Junkrat,Ranged Assassin,1,0,0.0
-397,smoke,Leoric,Bruiser,1,1,1.0
-398,smoke,Malthael,Bruiser,1,0,0.0
-399,smoke,Mei,Tank,2,2,1.0
-400,smoke,Orphea,Ranged Assassin,1,1,1.0
-401,smoke,Raynor,Ranged Assassin,1,1,1.0
-402,smoke,Samuro,Melee Assassin,1,1,1.0
-403,smoke,Stitches,Tank,1,0,0.0
-404,smoke,Tychus,Ranged Assassin,1,1,1.0
-405,smoke,Valla,Ranged Assassin,1,1,1.0
-406,souls in slowmo,Abathur,Support,1,0,0.0
-407,souls in slowmo,Alarak,Melee Assassin,1,0,0.0
-408,souls in slowmo,Ana,Healer,2,1,0.5
-409,souls in slowmo,Anduin,Healer,5,2,0.4
-410,souls in slowmo,Anub'arak,Tank,5,2,0.4
-411,souls in slowmo,Blaze,Tank,3,0,0.0
-412,souls in slowmo,Brightwing,Healer,1,0,0.0
-413,souls in slowmo,Cassia,Ranged Assassin,1,1,1.0
-414,souls in slowmo,Dehaka,Bruiser,1,1,1.0
-415,souls in slowmo,E.T.C.,Tank,1,0,0.0
-416,souls in slowmo,Falstad,Ranged Assassin,2,0,0.0
-417,souls in slowmo,Gazlowe,Bruiser,1,1,1.0
-418,souls in slowmo,Genji,Ranged Assassin,1,1,1.0
-419,souls in slowmo,Greymane,Ranged Assassin,1,0,0.0
-420,souls in slowmo,Gul'dan,Ranged Assassin,1,0,0.0
-421,souls in slowmo,Hanzo,Ranged Assassin,6,4,0.67
-422,souls in slowmo,Hogger,Bruiser,1,0,0.0
-423,souls in slowmo,Jaina,Ranged Assassin,1,1,1.0
-424,souls in slowmo,Johanna,Tank,3,0,0.0
-425,souls in slowmo,Junkrat,Ranged Assassin,3,1,0.33
-426,souls in slowmo,Kharazim,Healer,1,1,1.0
-427,souls in slowmo,Leoric,Bruiser,1,1,1.0
-428,souls in slowmo,Li-Ming,Ranged Assassin,2,0,0.0
-429,souls in slowmo,Lunara,Ranged Assassin,1,1,1.0
-430,souls in slowmo,Lúcio,Healer,1,0,0.0
-431,souls in slowmo,Malfurion,Healer,2,0,0.0
-432,souls in slowmo,Mei,Tank,6,3,0.5
-433,souls in slowmo,Mephisto,Ranged Assassin,5,1,0.2
-434,souls in slowmo,Muradin,Tank,4,1,0.25
-435,souls in slowmo,Nazeebo,Ranged Assassin,1,0,0.0
-436,souls in slowmo,Orphea,Ranged Assassin,1,0,0.0
-437,souls in slowmo,Raynor,Ranged Assassin,1,1,1.0
-438,souls in slowmo,Rehgar,Healer,4,2,0.5
-439,souls in slowmo,Rexxar,Bruiser,1,0,0.0
-440,souls in slowmo,Sgt. Hammer,Ranged Assassin,1,1,1.0
-441,souls in slowmo,Sonya,Bruiser,9,4,0.44
-442,souls in slowmo,Stitches,Tank,1,1,1.0
-443,souls in slowmo,Stukov,Healer,2,0,0.0
-444,souls in slowmo,Sylvanas,Ranged Assassin,5,1,0.2
-445,souls in slowmo,Thrall,Bruiser,2,0,0.0
-446,souls in slowmo,Uther,Healer,2,1,0.5
-447,souls in slowmo,Valla,Ranged Assassin,3,1,0.33
-448,souls in slowmo,Xul,Bruiser,1,0,0.0
-449,souls in slowmo,Zeratul,Melee Assassin,1,0,0.0
-450,souls in slowmo,Zul'jin,Ranged Assassin,1,0,0.0
-451,ycmyccastep7:cheeseawakens,Alexstrasza,Healer,9,3,0.33
-452,ycmyccastep7:cheeseawakens,Ana,Healer,6,0,0.0
-453,ycmyccastep7:cheeseawakens,Anduin,Healer,11,5,0.45
-454,ycmyccastep7:cheeseawakens,Anub'arak,Tank,12,5,0.42
-455,ycmyccastep7:cheeseawakens,Arthas,Tank,8,5,0.62
-456,ycmyccastep7:cheeseawakens,Auriel,Healer,1,0,0.0
-457,ycmyccastep7:cheeseawakens,Azmodan,Ranged Assassin,7,3,0.43
-458,ycmyccastep7:cheeseawakens,Blaze,Tank,20,12,0.6
-459,ycmyccastep7:cheeseawakens,Brightwing,Healer,23,13,0.57
-460,ycmyccastep7:cheeseawakens,Cassia,Ranged Assassin,2,2,1.0
-461,ycmyccastep7:cheeseawakens,Cho,Tank,1,1,1.0
-462,ycmyccastep7:cheeseawakens,Chromie,Ranged Assassin,8,4,0.5
-463,ycmyccastep7:cheeseawakens,D.Va,Bruiser,8,7,0.88
-464,ycmyccastep7:cheeseawakens,Deckard,Healer,9,4,0.44
-465,ycmyccastep7:cheeseawakens,Diablo,Tank,3,1,0.33
-466,ycmyccastep7:cheeseawakens,E.T.C.,Tank,2,2,1.0
-467,ycmyccastep7:cheeseawakens,Fenix,Ranged Assassin,7,3,0.43
-468,ycmyccastep7:cheeseawakens,Gall,Ranged Assassin,1,1,1.0
-469,ycmyccastep7:cheeseawakens,Garrosh,Tank,1,0,0.0
-470,ycmyccastep7:cheeseawakens,Gazlowe,Bruiser,1,1,1.0
-471,ycmyccastep7:cheeseawakens,Gul'dan,Ranged Assassin,8,4,0.5
-472,ycmyccastep7:cheeseawakens,Imperius,Bruiser,1,0,0.0
-473,ycmyccastep7:cheeseawakens,Jaina,Ranged Assassin,2,0,0.0
-474,ycmyccastep7:cheeseawakens,Johanna,Tank,12,5,0.42
-475,ycmyccastep7:cheeseawakens,Junkrat,Ranged Assassin,26,9,0.35
-476,ycmyccastep7:cheeseawakens,Kael'thas,Ranged Assassin,3,1,0.33
-477,ycmyccastep7:cheeseawakens,Kel'Thuzad,Ranged Assassin,24,11,0.46
-478,ycmyccastep7:cheeseawakens,Kharazim,Healer,6,4,0.67
-479,ycmyccastep7:cheeseawakens,Li Li,Healer,7,4,0.57
-480,ycmyccastep7:cheeseawakens,Li-Ming,Ranged Assassin,16,9,0.56
-481,ycmyccastep7:cheeseawakens,Lt. Morales,Healer,6,3,0.5
-482,ycmyccastep7:cheeseawakens,Lunara,Ranged Assassin,2,0,0.0
-483,ycmyccastep7:cheeseawakens,Lúcio,Healer,21,8,0.38
-484,ycmyccastep7:cheeseawakens,Maiev,Melee Assassin,3,2,0.67
-485,ycmyccastep7:cheeseawakens,Mal'Ganis,Tank,2,1,0.5
-486,ycmyccastep7:cheeseawakens,Malfurion,Healer,9,5,0.56
-487,ycmyccastep7:cheeseawakens,Malthael,Bruiser,4,2,0.5
-488,ycmyccastep7:cheeseawakens,Mei,Tank,23,9,0.39
-489,ycmyccastep7:cheeseawakens,Mephisto,Ranged Assassin,5,0,0.0
-490,ycmyccastep7:cheeseawakens,Muradin,Tank,8,3,0.38
-491,ycmyccastep7:cheeseawakens,Nazeebo,Ranged Assassin,6,1,0.17
-492,ycmyccastep7:cheeseawakens,Nova,Ranged Assassin,2,1,0.5
-493,ycmyccastep7:cheeseawakens,Orphea,Ranged Assassin,23,11,0.48
-494,ycmyccastep7:cheeseawakens,Probius,Ranged Assassin,7,5,0.71
-495,ycmyccastep7:cheeseawakens,Qhira,Melee Assassin,6,3,0.5
-496,ycmyccastep7:cheeseawakens,Ragnaros,Bruiser,2,0,0.0
-497,ycmyccastep7:cheeseawakens,Raynor,Ranged Assassin,25,11,0.44
-498,ycmyccastep7:cheeseawakens,Rehgar,Healer,8,2,0.25
-499,ycmyccastep7:cheeseawakens,Samuro,Melee Assassin,20,11,0.55
-500,ycmyccastep7:cheeseawakens,Sgt. Hammer,Ranged Assassin,1,1,1.0
-501,ycmyccastep7:cheeseawakens,Sonya,Bruiser,1,0,0.0
-502,ycmyccastep7:cheeseawakens,Stitches,Tank,5,3,0.6
-503,ycmyccastep7:cheeseawakens,Stukov,Healer,7,2,0.29
-504,ycmyccastep7:cheeseawakens,Sylvanas,Ranged Assassin,14,5,0.36
-505,ycmyccastep7:cheeseawakens,Tassadar,Ranged Assassin,4,1,0.25
-506,ycmyccastep7:cheeseawakens,The Lost Vikings,Support,1,0,0.0
-507,ycmyccastep7:cheeseawakens,Tracer,Ranged Assassin,1,0,0.0
-508,ycmyccastep7:cheeseawakens,Tyrael,Tank,2,0,0.0
-509,ycmyccastep7:cheeseawakens,Tyrande,Healer,1,0,0.0
-510,ycmyccastep7:cheeseawakens,Uther,Healer,6,3,0.5
-511,ycmyccastep7:cheeseawakens,Valla,Ranged Assassin,11,8,0.73
-512,ycmyccastep7:cheeseawakens,Varian,Bruiser,2,1,0.5
-513,ycmyccastep7:cheeseawakens,Xul,Bruiser,2,1,0.5
-514,ycmyccastep7:cheeseawakens,Yrel,Bruiser,1,0,0.0
-515,ycmyccastep7:cheeseawakens,Zagara,Ranged Assassin,3,1,0.33
-516,ycmyccastep7:cheeseawakens,Zarya,Support,1,0,0.0
-517,ycmyccastep7:cheeseawakens,Zul'jin,Ranged Assassin,5,2,0.4
+5,30 seconds to mosh,Blaze,Tank,28,16,0.57
+6,30 seconds to mosh,Brightwing,Healer,36,17,0.47
+7,30 seconds to mosh,Cassia,Ranged Assassin,29,21,0.72
+8,30 seconds to mosh,Chen,Bruiser,2,0,0.0
+9,30 seconds to mosh,Chromie,Ranged Assassin,7,3,0.43
+10,30 seconds to mosh,D.Va,Bruiser,17,6,0.35
+11,30 seconds to mosh,Deathwing,Bruiser,2,1,0.5
+12,30 seconds to mosh,Deckard,Healer,6,3,0.5
+13,30 seconds to mosh,Dehaka,Bruiser,22,11,0.5
+14,30 seconds to mosh,Diablo,Tank,19,8,0.42
+15,30 seconds to mosh,E.T.C.,Tank,15,9,0.6
+16,30 seconds to mosh,Falstad,Ranged Assassin,9,3,0.33
+17,30 seconds to mosh,Garrosh,Tank,16,9,0.56
+18,30 seconds to mosh,Gazlowe,Bruiser,18,8,0.44
+19,30 seconds to mosh,Genji,Ranged Assassin,8,5,0.62
+20,30 seconds to mosh,Greymane,Ranged Assassin,21,9,0.43
+21,30 seconds to mosh,Gul'dan,Ranged Assassin,3,1,0.33
+22,30 seconds to mosh,Hanzo,Ranged Assassin,12,5,0.42
+23,30 seconds to mosh,Hogger,Bruiser,6,2,0.33
+24,30 seconds to mosh,Imperius,Bruiser,5,1,0.2
+25,30 seconds to mosh,Jaina,Ranged Assassin,56,31,0.55
+26,30 seconds to mosh,Johanna,Tank,45,24,0.53
+27,30 seconds to mosh,Junkrat,Ranged Assassin,2,0,0.0
+28,30 seconds to mosh,Kael'thas,Ranged Assassin,2,1,0.5
+29,30 seconds to mosh,Leoric,Bruiser,49,32,0.65
+30,30 seconds to mosh,Li Li,Healer,3,0,0.0
+31,30 seconds to mosh,Li-Ming,Ranged Assassin,12,5,0.42
+32,30 seconds to mosh,Lt. Morales,Healer,2,2,1.0
+33,30 seconds to mosh,Lunara,Ranged Assassin,35,19,0.54
+34,30 seconds to mosh,Lúcio,Healer,13,6,0.46
+35,30 seconds to mosh,Maiev,Melee Assassin,1,0,0.0
+36,30 seconds to mosh,Mal'Ganis,Tank,3,1,0.33
+37,30 seconds to mosh,Malfurion,Healer,1,0,0.0
+38,30 seconds to mosh,Malthael,Bruiser,2,1,0.5
+39,30 seconds to mosh,Mei,Tank,6,2,0.33
+40,30 seconds to mosh,Mephisto,Ranged Assassin,3,0,0.0
+41,30 seconds to mosh,Muradin,Tank,47,26,0.55
+42,30 seconds to mosh,Murky,Melee Assassin,2,0,0.0
+43,30 seconds to mosh,Nazeebo,Ranged Assassin,6,3,0.5
+44,30 seconds to mosh,Nova,Ranged Assassin,2,0,0.0
+45,30 seconds to mosh,Orphea,Ranged Assassin,14,7,0.5
+46,30 seconds to mosh,Probius,Ranged Assassin,8,4,0.5
+47,30 seconds to mosh,Ragnaros,Bruiser,1,0,0.0
+48,30 seconds to mosh,Raynor,Ranged Assassin,8,4,0.5
+49,30 seconds to mosh,Rehgar,Healer,40,21,0.52
+50,30 seconds to mosh,Rexxar,Bruiser,4,2,0.5
+51,30 seconds to mosh,Sgt. Hammer,Ranged Assassin,5,1,0.2
+52,30 seconds to mosh,Sonya,Bruiser,60,35,0.58
+53,30 seconds to mosh,Stitches,Tank,5,2,0.4
+54,30 seconds to mosh,Stukov,Healer,63,34,0.54
+55,30 seconds to mosh,Sylvanas,Ranged Assassin,33,16,0.48
+56,30 seconds to mosh,Tassadar,Ranged Assassin,6,3,0.5
+57,30 seconds to mosh,The Butcher,Melee Assassin,1,0,0.0
+58,30 seconds to mosh,Thrall,Bruiser,2,1,0.5
+59,30 seconds to mosh,Tychus,Ranged Assassin,25,18,0.72
+60,30 seconds to mosh,Tyrael,Tank,10,4,0.4
+61,30 seconds to mosh,Uther,Healer,2,2,1.0
+62,30 seconds to mosh,Valeera,Melee Assassin,1,0,0.0
+63,30 seconds to mosh,Valla,Ranged Assassin,35,20,0.57
+64,30 seconds to mosh,Varian,Bruiser,67,39,0.58
+65,30 seconds to mosh,Whitemane,Healer,1,1,1.0
+66,30 seconds to mosh,Xul,Bruiser,3,0,0.0
+67,30 seconds to mosh,Yrel,Bruiser,1,0,0.0
+68,30 seconds to mosh,Zagara,Ranged Assassin,1,0,0.0
+69,30 seconds to mosh,Zarya,Support,4,2,0.5
+70,30 seconds to mosh,Zeratul,Melee Assassin,1,0,0.0
+71,30 seconds to mosh,Zul'jin,Ranged Assassin,20,12,0.6
+72,beyonce gnolls,Anduin,Healer,6,3,0.5
+73,beyonce gnolls,Anub'arak,Tank,2,1,0.5
+74,beyonce gnolls,Azmodan,Ranged Assassin,1,0,0.0
+75,beyonce gnolls,Blaze,Tank,4,2,0.5
+76,beyonce gnolls,Brightwing,Healer,1,0,0.0
+77,beyonce gnolls,Cassia,Ranged Assassin,2,1,0.5
+78,beyonce gnolls,Dehaka,Bruiser,6,2,0.33
+79,beyonce gnolls,Diablo,Tank,6,3,0.5
+80,beyonce gnolls,Falstad,Ranged Assassin,3,2,0.67
+81,beyonce gnolls,Greymane,Ranged Assassin,5,3,0.6
+82,beyonce gnolls,Gul'dan,Ranged Assassin,1,1,1.0
+83,beyonce gnolls,Hogger,Bruiser,2,0,0.0
+84,beyonce gnolls,Jaina,Ranged Assassin,2,1,0.5
+85,beyonce gnolls,Johanna,Tank,4,1,0.25
+86,beyonce gnolls,Leoric,Bruiser,5,3,0.6
+87,beyonce gnolls,Li Li,Healer,1,0,0.0
+88,beyonce gnolls,Lunara,Ranged Assassin,6,1,0.17
+89,beyonce gnolls,Malfurion,Healer,2,1,0.5
+90,beyonce gnolls,Muradin,Tank,4,2,0.5
+91,beyonce gnolls,Nazeebo,Ranged Assassin,4,2,0.5
+92,beyonce gnolls,Orphea,Ranged Assassin,2,1,0.5
+93,beyonce gnolls,Raynor,Ranged Assassin,2,0,0.0
+94,beyonce gnolls,Rehgar,Healer,6,4,0.67
+95,beyonce gnolls,Rexxar,Bruiser,4,3,0.75
+96,beyonce gnolls,Samuro,Melee Assassin,2,1,0.5
+97,beyonce gnolls,Stukov,Healer,7,2,0.29
+98,beyonce gnolls,Tassadar,Ranged Assassin,6,3,0.5
+99,beyonce gnolls,Thrall,Bruiser,1,0,0.0
+100,beyonce gnolls,Tychus,Ranged Assassin,13,7,0.54
+101,beyonce gnolls,Uther,Healer,2,1,0.5
+102,beyonce gnolls,Valla,Ranged Assassin,1,0,0.0
+103,beyonce gnolls,Varian,Bruiser,6,4,0.67
+104,beyonce gnolls,Yrel,Bruiser,1,0,0.0
+105,bunker fun time academy,Anub'arak,Tank,1,1,1.0
+106,bunker fun time academy,Blaze,Tank,4,3,0.75
+107,bunker fun time academy,Dehaka,Bruiser,1,1,1.0
+108,bunker fun time academy,Johanna,Tank,1,0,0.0
+109,bunker fun time academy,Kael'thas,Ranged Assassin,1,1,1.0
+110,bunker fun time academy,Li Li,Healer,1,0,0.0
+111,bunker fun time academy,Li-Ming,Ranged Assassin,1,0,0.0
+112,bunker fun time academy,Nazeebo,Ranged Assassin,2,2,1.0
+113,bunker fun time academy,Ragnaros,Bruiser,1,1,1.0
+114,bunker fun time academy,Stukov,Healer,2,2,1.0
+115,bunker fun time academy,Tassadar,Ranged Assassin,3,3,1.0
+116,bunker fun time academy,Thrall,Bruiser,1,0,0.0
+117,bunker fun time academy,Tychus,Ranged Assassin,1,1,1.0
+118,bunker fun time academy,Tyrande,Healer,2,2,1.0
+119,bunker fun time academy,Varian,Bruiser,3,3,1.0
+120,chogall chocolate factory,Alexstrasza,Healer,1,1,1.0
+121,chogall chocolate factory,Anduin,Healer,3,1,0.33
+122,chogall chocolate factory,Anub'arak,Tank,1,1,1.0
+123,chogall chocolate factory,Azmodan,Ranged Assassin,5,4,0.8
+124,chogall chocolate factory,Blaze,Tank,1,0,0.0
+125,chogall chocolate factory,Brightwing,Healer,5,5,1.0
+126,chogall chocolate factory,D.Va,Bruiser,1,0,0.0
+127,chogall chocolate factory,Deathwing,Bruiser,2,2,1.0
+128,chogall chocolate factory,Diablo,Tank,3,2,0.67
+129,chogall chocolate factory,E.T.C.,Tank,2,2,1.0
+130,chogall chocolate factory,Falstad,Ranged Assassin,1,1,1.0
+131,chogall chocolate factory,Fenix,Ranged Assassin,1,1,1.0
+132,chogall chocolate factory,Garrosh,Tank,3,2,0.67
+133,chogall chocolate factory,Gazlowe,Bruiser,4,3,0.75
+134,chogall chocolate factory,Greymane,Ranged Assassin,6,5,0.83
+135,chogall chocolate factory,Hogger,Bruiser,2,1,0.5
+136,chogall chocolate factory,Imperius,Bruiser,1,0,0.0
+137,chogall chocolate factory,Jaina,Ranged Assassin,4,2,0.5
+138,chogall chocolate factory,Johanna,Tank,3,1,0.33
+139,chogall chocolate factory,Junkrat,Ranged Assassin,1,1,1.0
+140,chogall chocolate factory,Leoric,Bruiser,2,1,0.5
+141,chogall chocolate factory,Li-Ming,Ranged Assassin,3,1,0.33
+142,chogall chocolate factory,Maiev,Melee Assassin,1,1,1.0
+143,chogall chocolate factory,Mal'Ganis,Tank,1,1,1.0
+144,chogall chocolate factory,Malfurion,Healer,1,1,1.0
+145,chogall chocolate factory,Malthael,Bruiser,2,1,0.5
+146,chogall chocolate factory,Muradin,Tank,2,2,1.0
+147,chogall chocolate factory,Probius,Ranged Assassin,1,0,0.0
+148,chogall chocolate factory,Sonya,Bruiser,4,2,0.5
+149,chogall chocolate factory,Stukov,Healer,5,3,0.6
+150,chogall chocolate factory,Tassadar,Ranged Assassin,4,4,1.0
+151,chogall chocolate factory,Tychus,Ranged Assassin,1,0,0.0
+152,chogall chocolate factory,Tyrael,Tank,1,0,0.0
+153,chogall chocolate factory,Uther,Healer,1,0,0.0
+154,chogall chocolate factory,Valla,Ranged Assassin,2,1,0.5
+155,chogall chocolate factory,Varian,Bruiser,2,1,0.5
+156,chogall chocolate factory,Whitemane,Healer,1,0,0.0
+157,chogall chocolate factory,Xul,Bruiser,1,1,1.0
+158,ff & the pancakes,Abathur,Support,12,7,0.58
+159,ff & the pancakes,Alexstrasza,Healer,1,1,1.0
+160,ff & the pancakes,Ana,Healer,1,1,1.0
+161,ff & the pancakes,Anduin,Healer,17,6,0.35
+162,ff & the pancakes,Anub'arak,Tank,9,4,0.44
+163,ff & the pancakes,Artanis,Bruiser,14,8,0.57
+164,ff & the pancakes,Arthas,Tank,12,9,0.75
+165,ff & the pancakes,Auriel,Healer,11,7,0.64
+166,ff & the pancakes,Azmodan,Ranged Assassin,16,6,0.38
+167,ff & the pancakes,Blaze,Tank,21,13,0.62
+168,ff & the pancakes,Brightwing,Healer,11,2,0.18
+169,ff & the pancakes,Cassia,Ranged Assassin,27,18,0.67
+170,ff & the pancakes,Chromie,Ranged Assassin,1,0,0.0
+171,ff & the pancakes,D.Va,Bruiser,10,4,0.4
+172,ff & the pancakes,Deathwing,Bruiser,30,15,0.5
+173,ff & the pancakes,Deckard,Healer,36,20,0.56
+174,ff & the pancakes,Dehaka,Bruiser,41,19,0.46
+175,ff & the pancakes,Diablo,Tank,36,15,0.42
+176,ff & the pancakes,E.T.C.,Tank,12,6,0.5
+177,ff & the pancakes,Falstad,Ranged Assassin,19,6,0.32
+178,ff & the pancakes,Fenix,Ranged Assassin,28,16,0.57
+179,ff & the pancakes,Gazlowe,Bruiser,29,19,0.66
+180,ff & the pancakes,Genji,Ranged Assassin,2,0,0.0
+181,ff & the pancakes,Gul'dan,Ranged Assassin,1,1,1.0
+182,ff & the pancakes,Hanzo,Ranged Assassin,4,2,0.5
+183,ff & the pancakes,Hogger,Bruiser,1,0,0.0
+184,ff & the pancakes,Illidan,Melee Assassin,33,21,0.64
+185,ff & the pancakes,Imperius,Bruiser,4,0,0.0
+186,ff & the pancakes,Jaina,Ranged Assassin,40,17,0.42
+187,ff & the pancakes,Johanna,Tank,85,52,0.61
+188,ff & the pancakes,Junkrat,Ranged Assassin,3,2,0.67
+189,ff & the pancakes,Kael'thas,Ranged Assassin,19,13,0.68
+190,ff & the pancakes,Kel'Thuzad,Ranged Assassin,28,13,0.46
+191,ff & the pancakes,Kerrigan,Melee Assassin,7,6,0.86
+192,ff & the pancakes,Kharazim,Healer,2,2,1.0
+193,ff & the pancakes,Leoric,Bruiser,54,31,0.57
+194,ff & the pancakes,Li Li,Healer,9,4,0.44
+195,ff & the pancakes,Li-Ming,Ranged Assassin,10,6,0.6
+196,ff & the pancakes,Lt. Morales,Healer,3,1,0.33
+197,ff & the pancakes,Lunara,Ranged Assassin,11,3,0.27
+198,ff & the pancakes,Lúcio,Healer,68,42,0.62
+199,ff & the pancakes,Maiev,Melee Assassin,37,21,0.57
+200,ff & the pancakes,Mal'Ganis,Tank,13,6,0.46
+201,ff & the pancakes,Malfurion,Healer,21,10,0.48
+202,ff & the pancakes,Malthael,Bruiser,7,4,0.57
+203,ff & the pancakes,Mei,Tank,24,11,0.46
+204,ff & the pancakes,Muradin,Tank,15,5,0.33
+205,ff & the pancakes,Nazeebo,Ranged Assassin,51,23,0.45
+206,ff & the pancakes,Orphea,Ranged Assassin,90,55,0.61
+207,ff & the pancakes,Qhira,Melee Assassin,22,9,0.41
+208,ff & the pancakes,Ragnaros,Bruiser,16,13,0.81
+209,ff & the pancakes,Raynor,Ranged Assassin,3,2,0.67
+210,ff & the pancakes,Rehgar,Healer,87,45,0.52
+211,ff & the pancakes,Rexxar,Bruiser,1,1,1.0
+212,ff & the pancakes,Samuro,Melee Assassin,5,3,0.6
+213,ff & the pancakes,Sonya,Bruiser,1,1,1.0
+214,ff & the pancakes,Stitches,Tank,45,25,0.56
+215,ff & the pancakes,Stukov,Healer,14,8,0.57
+216,ff & the pancakes,Sylvanas,Ranged Assassin,1,0,0.0
+217,ff & the pancakes,Tassadar,Ranged Assassin,41,19,0.46
+218,ff & the pancakes,The Butcher,Melee Assassin,1,1,1.0
+219,ff & the pancakes,Tychus,Ranged Assassin,31,13,0.42
+220,ff & the pancakes,Tyrael,Tank,11,6,0.55
+221,ff & the pancakes,Tyrande,Healer,7,6,0.86
+222,ff & the pancakes,Uther,Healer,31,17,0.55
+223,ff & the pancakes,Valla,Ranged Assassin,26,12,0.46
+224,ff & the pancakes,Varian,Bruiser,12,4,0.33
+225,ff & the pancakes,Whitemane,Healer,9,1,0.11
+226,ff & the pancakes,Xul,Bruiser,27,15,0.56
+227,ff & the pancakes,Zagara,Ranged Assassin,1,0,0.0
+228,ff & the pancakes,Zarya,Support,3,1,0.33
+229,ff & the pancakes,Zeratul,Melee Assassin,50,23,0.46
+230,ff & the pancakes,Zul'jin,Ranged Assassin,4,2,0.5
+231,gold dragons,Abathur,Support,4,2,0.5
+232,gold dragons,Alarak,Melee Assassin,1,0,0.0
+233,gold dragons,Ana,Healer,1,1,1.0
+234,gold dragons,Anduin,Healer,1,0,0.0
+235,gold dragons,Auriel,Healer,1,0,0.0
+236,gold dragons,Deckard,Healer,1,0,0.0
+237,gold dragons,Dehaka,Bruiser,2,0,0.0
+238,gold dragons,Diablo,Tank,1,0,0.0
+239,gold dragons,Gazlowe,Bruiser,1,0,0.0
+240,gold dragons,Hanzo,Ranged Assassin,1,0,0.0
+241,gold dragons,Imperius,Bruiser,1,0,0.0
+242,gold dragons,Jaina,Ranged Assassin,5,1,0.2
+243,gold dragons,Johanna,Tank,1,0,0.0
+244,gold dragons,Kharazim,Healer,1,0,0.0
+245,gold dragons,Li Li,Healer,4,1,0.25
+246,gold dragons,Li-Ming,Ranged Assassin,3,1,0.33
+247,gold dragons,Lúcio,Healer,2,1,0.5
+248,gold dragons,Mal'Ganis,Tank,1,0,0.0
+249,gold dragons,Malfurion,Healer,4,2,0.5
+250,gold dragons,Medivh,Support,1,0,0.0
+251,gold dragons,Mei,Tank,1,0,0.0
+252,gold dragons,Mephisto,Ranged Assassin,1,0,0.0
+253,gold dragons,Muradin,Tank,3,1,0.33
+254,gold dragons,Orphea,Ranged Assassin,1,0,0.0
+255,gold dragons,Ragnaros,Bruiser,1,0,0.0
+256,gold dragons,Raynor,Ranged Assassin,2,1,0.5
+257,gold dragons,Sonya,Bruiser,9,4,0.44
+258,gold dragons,Stitches,Tank,2,0,0.0
+259,gold dragons,Stukov,Healer,2,0,0.0
+260,gold dragons,Tassadar,Ranged Assassin,8,2,0.25
+261,gold dragons,Thrall,Bruiser,4,1,0.25
+262,gold dragons,Tracer,Ranged Assassin,1,0,0.0
+263,gold dragons,Tychus,Ranged Assassin,9,3,0.33
+264,gold dragons,Uther,Healer,1,0,0.0
+265,gold dragons,Valla,Ranged Assassin,1,0,0.0
+266,gold dragons,Varian,Bruiser,10,4,0.4
+267,gold dragons,Whitemane,Healer,1,0,0.0
+268,gold dragons,Xul,Bruiser,1,0,0.0
+269,infernal misfits,Alarak,Melee Assassin,15,15,1.0
+270,infernal misfits,Ana,Healer,1,1,1.0
+271,infernal misfits,Anduin,Healer,8,6,0.75
+272,infernal misfits,Anub'arak,Tank,10,8,0.8
+273,infernal misfits,Artanis,Bruiser,3,0,0.0
+274,infernal misfits,Arthas,Tank,1,0,0.0
+275,infernal misfits,Auriel,Healer,2,1,0.5
+276,infernal misfits,Blaze,Tank,13,11,0.85
+277,infernal misfits,Brightwing,Healer,3,3,1.0
+278,infernal misfits,Cho,Tank,2,2,1.0
+279,infernal misfits,Chromie,Ranged Assassin,1,1,1.0
+280,infernal misfits,D.Va,Bruiser,1,1,1.0
+281,infernal misfits,Deckard,Healer,4,4,1.0
+282,infernal misfits,Diablo,Tank,5,3,0.6
+283,infernal misfits,E.T.C.,Tank,3,3,1.0
+284,infernal misfits,Falstad,Ranged Assassin,1,0,0.0
+285,infernal misfits,Gall,Ranged Assassin,2,2,1.0
+286,infernal misfits,Garrosh,Tank,2,1,0.5
+287,infernal misfits,Gul'dan,Ranged Assassin,7,4,0.57
+288,infernal misfits,Hogger,Bruiser,4,4,1.0
+289,infernal misfits,Imperius,Bruiser,3,3,1.0
+290,infernal misfits,Johanna,Tank,10,9,0.9
+291,infernal misfits,Junkrat,Ranged Assassin,4,2,0.5
+292,infernal misfits,Kael'thas,Ranged Assassin,17,17,1.0
+293,infernal misfits,Kel'Thuzad,Ranged Assassin,12,11,0.92
+294,infernal misfits,Kerrigan,Melee Assassin,7,5,0.71
+295,infernal misfits,Kharazim,Healer,10,10,1.0
+296,infernal misfits,Li Li,Healer,5,5,1.0
+297,infernal misfits,Li-Ming,Ranged Assassin,3,3,1.0
+298,infernal misfits,Lt. Morales,Healer,8,4,0.5
+299,infernal misfits,Maiev,Melee Assassin,4,0,0.0
+300,infernal misfits,Mei,Tank,5,4,0.8
+301,infernal misfits,Murky,Melee Assassin,1,1,1.0
+302,infernal misfits,Nazeebo,Ranged Assassin,1,0,0.0
+303,infernal misfits,Orphea,Ranged Assassin,11,10,0.91
+304,infernal misfits,Qhira,Melee Assassin,2,1,0.5
+305,infernal misfits,Raynor,Ranged Assassin,2,1,0.5
+306,infernal misfits,Rehgar,Healer,1,1,1.0
+307,infernal misfits,Sgt. Hammer,Ranged Assassin,2,1,0.5
+308,infernal misfits,Sonya,Bruiser,3,1,0.33
+309,infernal misfits,Stitches,Tank,3,1,0.33
+310,infernal misfits,Stukov,Healer,1,1,1.0
+311,infernal misfits,Sylvanas,Ranged Assassin,1,0,0.0
+312,infernal misfits,Tassadar,Ranged Assassin,1,0,0.0
+313,infernal misfits,Thrall,Bruiser,1,1,1.0
+314,infernal misfits,Tychus,Ranged Assassin,3,1,0.33
+315,infernal misfits,Uther,Healer,1,1,1.0
+316,infernal misfits,Valeera,Melee Assassin,1,1,1.0
+317,infernal misfits,Valla,Ranged Assassin,4,3,0.75
+318,infernal misfits,Varian,Bruiser,4,3,0.75
+319,infernal misfits,Whitemane,Healer,5,1,0.2
+320,infernal misfits,Yrel,Bruiser,12,11,0.92
+321,infernal misfits,Zagara,Ranged Assassin,6,5,0.83
+322,infernal misfits,Zul'jin,Ranged Assassin,3,2,0.67
+323,ltk - we hate obj,Alexstrasza,Healer,1,0,0.0
+324,ltk - we hate obj,Anub'arak,Tank,4,2,0.5
+325,ltk - we hate obj,Artanis,Bruiser,1,1,1.0
+326,ltk - we hate obj,Auriel,Healer,2,1,0.5
+327,ltk - we hate obj,Blaze,Tank,2,1,0.5
+328,ltk - we hate obj,Brightwing,Healer,2,1,0.5
+329,ltk - we hate obj,Deathwing,Bruiser,1,0,0.0
+330,ltk - we hate obj,Dehaka,Bruiser,2,1,0.5
+331,ltk - we hate obj,Diablo,Tank,5,5,1.0
+332,ltk - we hate obj,E.T.C.,Tank,2,1,0.5
+333,ltk - we hate obj,Falstad,Ranged Assassin,2,2,1.0
+334,ltk - we hate obj,Gazlowe,Bruiser,8,5,0.62
+335,ltk - we hate obj,Hanzo,Ranged Assassin,1,1,1.0
+336,ltk - we hate obj,Imperius,Bruiser,1,1,1.0
+337,ltk - we hate obj,Jaina,Ranged Assassin,1,0,0.0
+338,ltk - we hate obj,Leoric,Bruiser,3,2,0.67
+339,ltk - we hate obj,Li-Ming,Ranged Assassin,2,1,0.5
+340,ltk - we hate obj,Muradin,Tank,3,2,0.67
+341,ltk - we hate obj,Orphea,Ranged Assassin,6,5,0.83
+342,ltk - we hate obj,Ragnaros,Bruiser,3,3,1.0
+343,ltk - we hate obj,Rehgar,Healer,5,5,1.0
+344,ltk - we hate obj,Sonya,Bruiser,4,4,1.0
+345,ltk - we hate obj,Stukov,Healer,1,1,1.0
+346,ltk - we hate obj,Sylvanas,Ranged Assassin,1,1,1.0
+347,ltk - we hate obj,Tychus,Ranged Assassin,1,1,1.0
+348,ltk - we hate obj,Tyrande,Healer,2,1,0.5
+349,ltk - we hate obj,Valla,Ranged Assassin,2,1,0.5
+350,ltk - we hate obj,Whitemane,Healer,1,1,1.0
+351,ltk - we hate obj,Zul'jin,Ranged Assassin,1,0,0.0
+352,out of pocket,Abathur,Support,1,1,1.0
+353,out of pocket,Alarak,Melee Assassin,1,0,0.0
+354,out of pocket,Ana,Healer,3,2,0.67
+355,out of pocket,Anduin,Healer,4,3,0.75
+356,out of pocket,Anub'arak,Tank,2,1,0.5
+357,out of pocket,Artanis,Bruiser,18,7,0.39
+358,out of pocket,Arthas,Tank,1,0,0.0
+359,out of pocket,Azmodan,Ranged Assassin,13,6,0.46
+360,out of pocket,Brightwing,Healer,11,1,0.09
+361,out of pocket,D.Va,Bruiser,10,4,0.4
+362,out of pocket,Deathwing,Bruiser,10,3,0.3
+363,out of pocket,Deckard,Healer,1,1,1.0
+364,out of pocket,Dehaka,Bruiser,6,0,0.0
+365,out of pocket,Diablo,Tank,7,4,0.57
+366,out of pocket,E.T.C.,Tank,1,0,0.0
+367,out of pocket,Falstad,Ranged Assassin,2,1,0.5
+368,out of pocket,Garrosh,Tank,9,5,0.56
+369,out of pocket,Greymane,Ranged Assassin,2,0,0.0
+370,out of pocket,Gul'dan,Ranged Assassin,3,1,0.33
+371,out of pocket,Imperius,Bruiser,3,0,0.0
+372,out of pocket,Jaina,Ranged Assassin,7,3,0.43
+373,out of pocket,Johanna,Tank,9,3,0.33
+374,out of pocket,Kael'thas,Ranged Assassin,14,4,0.29
+375,out of pocket,Leoric,Bruiser,2,0,0.0
+376,out of pocket,Li Li,Healer,18,5,0.28
+377,out of pocket,Li-Ming,Ranged Assassin,46,15,0.33
+378,out of pocket,Lt. Morales,Healer,3,2,0.67
+379,out of pocket,Lúcio,Healer,2,1,0.5
+380,out of pocket,Mal'Ganis,Tank,1,0,0.0
+381,out of pocket,Mei,Tank,29,8,0.28
+382,out of pocket,Muradin,Tank,17,7,0.41
+383,out of pocket,Murky,Melee Assassin,2,2,1.0
+384,out of pocket,Nazeebo,Ranged Assassin,29,13,0.45
+385,out of pocket,Qhira,Melee Assassin,2,2,1.0
+386,out of pocket,Ragnaros,Bruiser,14,8,0.57
+387,out of pocket,Raynor,Ranged Assassin,6,1,0.17
+388,out of pocket,Rehgar,Healer,19,8,0.42
+389,out of pocket,Rexxar,Bruiser,5,4,0.8
+390,out of pocket,Sgt. Hammer,Ranged Assassin,1,1,1.0
+391,out of pocket,Sonya,Bruiser,1,0,0.0
+392,out of pocket,Stitches,Tank,12,6,0.5
+393,out of pocket,Stukov,Healer,8,4,0.5
+394,out of pocket,Sylvanas,Ranged Assassin,1,0,0.0
+395,out of pocket,Tassadar,Ranged Assassin,1,0,0.0
+396,out of pocket,The Butcher,Melee Assassin,8,2,0.25
+397,out of pocket,Thrall,Bruiser,1,1,1.0
+398,out of pocket,Tychus,Ranged Assassin,18,9,0.5
+399,out of pocket,Tyrande,Healer,12,6,0.5
+400,out of pocket,Uther,Healer,6,0,0.0
+401,out of pocket,Valla,Ranged Assassin,16,4,0.25
+402,out of pocket,Varian,Bruiser,16,5,0.31
+403,out of pocket,Zeratul,Melee Assassin,1,1,1.0
+404,smoke,Anduin,Healer,1,1,1.0
+405,smoke,Brightwing,Healer,3,2,0.67
+406,smoke,Diablo,Tank,1,1,1.0
+407,smoke,Garrosh,Tank,1,0,0.0
+408,smoke,Gazlowe,Bruiser,1,1,1.0
+409,smoke,Gul'dan,Ranged Assassin,1,1,1.0
+410,smoke,Johanna,Tank,1,1,1.0
+411,smoke,Junkrat,Ranged Assassin,1,0,0.0
+412,smoke,Leoric,Bruiser,1,1,1.0
+413,smoke,Malthael,Bruiser,1,0,0.0
+414,smoke,Mei,Tank,2,2,1.0
+415,smoke,Orphea,Ranged Assassin,1,1,1.0
+416,smoke,Raynor,Ranged Assassin,1,1,1.0
+417,smoke,Samuro,Melee Assassin,1,1,1.0
+418,smoke,Stitches,Tank,1,0,0.0
+419,smoke,Tychus,Ranged Assassin,1,1,1.0
+420,smoke,Valla,Ranged Assassin,1,1,1.0
+421,souls in slowmo,Abathur,Support,1,0,0.0
+422,souls in slowmo,Alarak,Melee Assassin,1,0,0.0
+423,souls in slowmo,Ana,Healer,2,1,0.5
+424,souls in slowmo,Anduin,Healer,7,3,0.43
+425,souls in slowmo,Anub'arak,Tank,6,3,0.5
+426,souls in slowmo,Artanis,Bruiser,1,0,0.0
+427,souls in slowmo,Azmodan,Ranged Assassin,1,1,1.0
+428,souls in slowmo,Blaze,Tank,3,0,0.0
+429,souls in slowmo,Brightwing,Healer,3,2,0.67
+430,souls in slowmo,Cassia,Ranged Assassin,3,2,0.67
+431,souls in slowmo,Dehaka,Bruiser,1,1,1.0
+432,souls in slowmo,E.T.C.,Tank,1,0,0.0
+433,souls in slowmo,Falstad,Ranged Assassin,2,0,0.0
+434,souls in slowmo,Gazlowe,Bruiser,2,2,1.0
+435,souls in slowmo,Genji,Ranged Assassin,1,1,1.0
+436,souls in slowmo,Greymane,Ranged Assassin,1,0,0.0
+437,souls in slowmo,Gul'dan,Ranged Assassin,1,0,0.0
+438,souls in slowmo,Hanzo,Ranged Assassin,7,4,0.57
+439,souls in slowmo,Hogger,Bruiser,1,0,0.0
+440,souls in slowmo,Jaina,Ranged Assassin,1,1,1.0
+441,souls in slowmo,Johanna,Tank,4,0,0.0
+442,souls in slowmo,Junkrat,Ranged Assassin,4,2,0.5
+443,souls in slowmo,Kael'thas,Ranged Assassin,1,1,1.0
+444,souls in slowmo,Kharazim,Healer,1,1,1.0
+445,souls in slowmo,Leoric,Bruiser,1,1,1.0
+446,souls in slowmo,Li-Ming,Ranged Assassin,2,0,0.0
+447,souls in slowmo,Lunara,Ranged Assassin,1,1,1.0
+448,souls in slowmo,Lúcio,Healer,1,0,0.0
+449,souls in slowmo,Malfurion,Healer,2,0,0.0
+450,souls in slowmo,Mei,Tank,8,4,0.5
+451,souls in slowmo,Mephisto,Ranged Assassin,5,1,0.2
+452,souls in slowmo,Muradin,Tank,5,2,0.4
+453,souls in slowmo,Nazeebo,Ranged Assassin,1,0,0.0
+454,souls in slowmo,Nova,Ranged Assassin,1,1,1.0
+455,souls in slowmo,Orphea,Ranged Assassin,1,0,0.0
+456,souls in slowmo,Qhira,Melee Assassin,1,1,1.0
+457,souls in slowmo,Ragnaros,Bruiser,1,1,1.0
+458,souls in slowmo,Raynor,Ranged Assassin,1,1,1.0
+459,souls in slowmo,Rehgar,Healer,4,2,0.5
+460,souls in slowmo,Rexxar,Bruiser,1,0,0.0
+461,souls in slowmo,Sgt. Hammer,Ranged Assassin,1,1,1.0
+462,souls in slowmo,Sonya,Bruiser,10,4,0.4
+463,souls in slowmo,Stitches,Tank,1,1,1.0
+464,souls in slowmo,Stukov,Healer,3,0,0.0
+465,souls in slowmo,Sylvanas,Ranged Assassin,5,1,0.2
+466,souls in slowmo,Thrall,Bruiser,3,1,0.33
+467,souls in slowmo,Tychus,Ranged Assassin,1,0,0.0
+468,souls in slowmo,Uther,Healer,2,1,0.5
+469,souls in slowmo,Valla,Ranged Assassin,4,1,0.25
+470,souls in slowmo,Xul,Bruiser,1,0,0.0
+471,souls in slowmo,Zeratul,Melee Assassin,1,0,0.0
+472,souls in slowmo,Zul'jin,Ranged Assassin,1,0,0.0
+473,ycmyccastep7:cheeseawakens,Alexstrasza,Healer,10,4,0.4
+474,ycmyccastep7:cheeseawakens,Ana,Healer,6,0,0.0
+475,ycmyccastep7:cheeseawakens,Anduin,Healer,12,6,0.5
+476,ycmyccastep7:cheeseawakens,Anub'arak,Tank,12,5,0.42
+477,ycmyccastep7:cheeseawakens,Arthas,Tank,8,5,0.62
+478,ycmyccastep7:cheeseawakens,Auriel,Healer,1,0,0.0
+479,ycmyccastep7:cheeseawakens,Azmodan,Ranged Assassin,7,3,0.43
+480,ycmyccastep7:cheeseawakens,Blaze,Tank,23,13,0.57
+481,ycmyccastep7:cheeseawakens,Brightwing,Healer,26,14,0.54
+482,ycmyccastep7:cheeseawakens,Cassia,Ranged Assassin,2,2,1.0
+483,ycmyccastep7:cheeseawakens,Cho,Tank,1,1,1.0
+484,ycmyccastep7:cheeseawakens,Chromie,Ranged Assassin,8,4,0.5
+485,ycmyccastep7:cheeseawakens,D.Va,Bruiser,8,7,0.88
+486,ycmyccastep7:cheeseawakens,Deckard,Healer,9,4,0.44
+487,ycmyccastep7:cheeseawakens,Diablo,Tank,4,2,0.5
+488,ycmyccastep7:cheeseawakens,E.T.C.,Tank,2,2,1.0
+489,ycmyccastep7:cheeseawakens,Fenix,Ranged Assassin,7,3,0.43
+490,ycmyccastep7:cheeseawakens,Gall,Ranged Assassin,1,1,1.0
+491,ycmyccastep7:cheeseawakens,Garrosh,Tank,1,0,0.0
+492,ycmyccastep7:cheeseawakens,Gazlowe,Bruiser,1,1,1.0
+493,ycmyccastep7:cheeseawakens,Gul'dan,Ranged Assassin,8,4,0.5
+494,ycmyccastep7:cheeseawakens,Imperius,Bruiser,1,0,0.0
+495,ycmyccastep7:cheeseawakens,Jaina,Ranged Assassin,2,0,0.0
+496,ycmyccastep7:cheeseawakens,Johanna,Tank,13,6,0.46
+497,ycmyccastep7:cheeseawakens,Junkrat,Ranged Assassin,27,10,0.37
+498,ycmyccastep7:cheeseawakens,Kael'thas,Ranged Assassin,4,2,0.5
+499,ycmyccastep7:cheeseawakens,Kel'Thuzad,Ranged Assassin,25,12,0.48
+500,ycmyccastep7:cheeseawakens,Kharazim,Healer,6,4,0.67
+501,ycmyccastep7:cheeseawakens,Li Li,Healer,7,4,0.57
+502,ycmyccastep7:cheeseawakens,Li-Ming,Ranged Assassin,17,9,0.53
+503,ycmyccastep7:cheeseawakens,Lt. Morales,Healer,6,3,0.5
+504,ycmyccastep7:cheeseawakens,Lunara,Ranged Assassin,2,0,0.0
+505,ycmyccastep7:cheeseawakens,Lúcio,Healer,21,8,0.38
+506,ycmyccastep7:cheeseawakens,Maiev,Melee Assassin,3,2,0.67
+507,ycmyccastep7:cheeseawakens,Mal'Ganis,Tank,2,1,0.5
+508,ycmyccastep7:cheeseawakens,Malfurion,Healer,10,6,0.6
+509,ycmyccastep7:cheeseawakens,Malthael,Bruiser,4,2,0.5
+510,ycmyccastep7:cheeseawakens,Mei,Tank,23,9,0.39
+511,ycmyccastep7:cheeseawakens,Mephisto,Ranged Assassin,5,0,0.0
+512,ycmyccastep7:cheeseawakens,Muradin,Tank,9,3,0.33
+513,ycmyccastep7:cheeseawakens,Nazeebo,Ranged Assassin,6,1,0.17
+514,ycmyccastep7:cheeseawakens,Nova,Ranged Assassin,2,1,0.5
+515,ycmyccastep7:cheeseawakens,Orphea,Ranged Assassin,23,11,0.48
+516,ycmyccastep7:cheeseawakens,Probius,Ranged Assassin,7,5,0.71
+517,ycmyccastep7:cheeseawakens,Qhira,Melee Assassin,6,3,0.5
+518,ycmyccastep7:cheeseawakens,Ragnaros,Bruiser,2,0,0.0
+519,ycmyccastep7:cheeseawakens,Raynor,Ranged Assassin,26,12,0.46
+520,ycmyccastep7:cheeseawakens,Rehgar,Healer,8,2,0.25
+521,ycmyccastep7:cheeseawakens,Samuro,Melee Assassin,20,11,0.55
+522,ycmyccastep7:cheeseawakens,Sgt. Hammer,Ranged Assassin,1,1,1.0
+523,ycmyccastep7:cheeseawakens,Sonya,Bruiser,1,0,0.0
+524,ycmyccastep7:cheeseawakens,Stitches,Tank,6,3,0.5
+525,ycmyccastep7:cheeseawakens,Stukov,Healer,7,2,0.29
+526,ycmyccastep7:cheeseawakens,Sylvanas,Ranged Assassin,15,5,0.33
+527,ycmyccastep7:cheeseawakens,Tassadar,Ranged Assassin,6,3,0.5
+528,ycmyccastep7:cheeseawakens,The Lost Vikings,Support,1,0,0.0
+529,ycmyccastep7:cheeseawakens,Tracer,Ranged Assassin,1,0,0.0
+530,ycmyccastep7:cheeseawakens,Tyrael,Tank,4,1,0.25
+531,ycmyccastep7:cheeseawakens,Tyrande,Healer,1,0,0.0
+532,ycmyccastep7:cheeseawakens,Uther,Healer,6,3,0.5
+533,ycmyccastep7:cheeseawakens,Valla,Ranged Assassin,13,9,0.69
+534,ycmyccastep7:cheeseawakens,Varian,Bruiser,2,1,0.5
+535,ycmyccastep7:cheeseawakens,Xul,Bruiser,2,1,0.5
+536,ycmyccastep7:cheeseawakens,Yrel,Bruiser,1,0,0.0
+537,ycmyccastep7:cheeseawakens,Zagara,Ranged Assassin,3,1,0.33
+538,ycmyccastep7:cheeseawakens,Zarya,Support,1,0,0.0
+539,ycmyccastep7:cheeseawakens,Zul'jin,Ranged Assassin,5,2,0.4
