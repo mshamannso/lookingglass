@@ -7,6 +7,9 @@ ReplayFingerPrint,TeamName,Team,Battletag
 01d1a17a-b630-ab18-9398-f76836771426,ff & the pancakes,1,5
 024ef2e4-cf98-42d2-c3f5-fbdfa6d86c0a,beyonce gnolls,0,5
 027f687c-989e-5b64-a60b-ffe229273c24,out of pocket,1,5
+02ea1553-04d5-f4fd-7ee6-e75520123480,beyonce gnolls,0,5
+02ea1553-04d5-f4fd-7ee6-e75520123480,smoke,1,5
+036462bf-a2cd-0d5b-35c7-f330cbf22ee9,souls in slowmo,1,5
 0388d0ae-e185-67d2-c893-2358d20c5138,ff & the pancakes,0,5
 03b7fc9e-3882-1671-b136-55c01cada314,30 seconds to mosh,1,5
 03c05fc2-660d-96df-5c06-98f3227d0a76,ff & the pancakes,1,5
@@ -27,8 +30,10 @@ ReplayFingerPrint,TeamName,Team,Battletag
 0622812a-dcd3-dddd-6a48-485a5b7e775f,ff & the pancakes,0,5
 0630140b-6b56-7b92-6dd6-e169e071bfd6,30 seconds to mosh,0,5
 06503ec4-c707-29e5-88f4-664b726a9d23,infernal misfits,0,5
+06e45255-0fd5-9b11-a614-e4cbdfcb38d1,bunker fun time academy,0,5
 07011dcf-0486-ea05-5c72-4167c996e7f6,ff & the pancakes,0,5
 0715bb99-fa73-6ab3-f93d-c35fbc6aa48d,ycmyccastep7:cheeseawakens,1,5
+07391078-f243-da92-8527-d004903614fe,souls in slowmo,0,5
 07950b68-a59b-88b0-0a64-895bd0dc7576,ff & the pancakes,1,5
 088ea5d7-627f-29a1-e2c4-ddc4273070e2,ff & the pancakes,0,5
 08f711ee-2001-9939-11a6-1a3157eeca2c,ff & the pancakes,0,5
@@ -42,6 +47,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 0ae21f7a-c846-6064-55ab-d9e7d2f33a43,ff & the pancakes,1,5
 0b688b74-5bb1-86ce-0006-ac16b899205d,chogall chocolate factory,0,5
 0b7a6539-4184-1a66-b9a7-2256b9a70c00,gold dragons,1,5
+0b9e9ace-edec-3ed5-7589-9d09ee9ab8b6,gold dragons,1,5
 0bdef314-c906-b807-00e0-a6ea78eb2e64,souls in slowmo,1,5
 0c64affc-c1e6-4d2c-a2df-bb7414bc171f,30 seconds to mosh,1,5
 0ce995e9-de60-0d0e-4f1e-872d2df6231d,ycmyccastep7:cheeseawakens,0,5
@@ -57,6 +63,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 0f568f77-b9f2-e892-bbbd-6ac0bb68b8de,30 seconds to mosh,1,5
 0fa361ff-fdf9-e7bf-7095-90f4668db15e,infernal misfits,1,5
 0fa54d98-605e-6a9a-b5f7-af3a3f6f6d6c,out of pocket,1,5
+0fe28379-8127-4ec2-a109-2ac404c0e8ce,souls in slowmo,1,5
 0ffee4e1-804a-9b24-3987-daefd626cd72,infernal misfits,0,5
 0ffee4e1-804a-9b24-3987-daefd626cd72,souls in slowmo,1,5
 1019ba87-7216-ab03-b97b-b54043caf4b9,ff & the pancakes,0,5
@@ -65,6 +72,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 1113167e-1282-0d51-e39e-3bfa4d16040b,out of pocket,1,5
 117532ea-0f07-5b2c-18d7-b72fd27c6a3f,ycmyccastep7:cheeseawakens,0,5
 11a5f26d-fe16-f6c5-d256-c625fb050d7b,infernal misfits,1,5
+11d8cd58-e287-ccaa-4cb6-fc70e0b39f97,souls in slowmo,1,5
 12345b8d-cb76-db93-fe8f-216dad74974a,ff & the pancakes,0,5
 12a43896-647c-f95a-ccc1-f572a90a6f87,ycmyccastep7:cheeseawakens,1,5
 12a864a3-375e-41a3-a5f2-b4fe077917ae,30 seconds to mosh,0,5
@@ -72,7 +80,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 13ac24bb-629b-6c7d-6d52-10f8ee8a819b,infernal misfits,0,5
 13dec64f-2626-78bf-fa1a-60b4e75b53c8,ff & the pancakes,0,5
 14755604-7522-b115-97f7-d4cca56bad0b,out of pocket,0,5
-14952d59-9469-3521-86ba-bff83435ea84,souls in slowmo,1,6
+14952d59-9469-3521-86ba-bff83435ea84,souls in slowmo,1,5
 1530b5df-8624-4418-d7fa-77dc768c44f8,ff & the pancakes,0,5
 1565f2b1-c20b-9574-5be6-c20960bc3b0a,out of pocket,0,5
 1578471f-dd15-9dda-2e63-109f62465387,ff & the pancakes,0,5
@@ -102,6 +110,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 1d24779a-6ff6-2352-39f7-bc56061a09ae,30 seconds to mosh,0,5
 1d565be0-568b-8de5-d613-f517322814a5,ff & the pancakes,1,5
 1daa6396-dc75-dd83-adf6-16998f31fcdb,30 seconds to mosh,1,5
+1db894ad-528b-a4c8-df80-b55eccff6c07,souls in slowmo,0,5
 1e30407a-6c33-3ca3-6b48-afc0dbc5e03c,ff & the pancakes,0,5
 1e632cf0-af38-77c2-2a84-31cf13e73a75,gold dragons,0,5
 1e87555f-ff09-dab2-7b32-70676c920162,30 seconds to mosh,1,5
@@ -132,9 +141,11 @@ ReplayFingerPrint,TeamName,Team,Battletag
 286aafdb-e956-26a5-9043-a1d58aacc3da,30 seconds to mosh,0,5
 288f93b9-5b80-802d-256b-3802a7679de1,ff & the pancakes,1,5
 28aad364-57f2-97e0-18af-6ade386332aa,30 seconds to mosh,1,5
+290682a0-cc2b-8d4c-2b04-0ea71e56ca22,infernal misfits,0,5
 2995602d-6d68-6a80-6d3a-a594c4f3fd3c,ff & the pancakes,0,5
 2a1e66a7-a15b-1ec4-e0e2-e60e02631000,30 seconds to mosh,1,5
 2a36eed6-c74c-3a14-76b1-57f0fcda3d91,30 seconds to mosh,1,5
+2aaed54b-d695-7e02-6e77-8ec73a0990a8,souls in slowmo,1,5
 2ad4870f-ea36-1046-f2d6-6842ea48bf32,30 seconds to mosh,0,5
 2b0bec12-d917-d2eb-c07e-621790481979,30 seconds to mosh,1,5
 2b287e43-d9df-1820-3c30-e0ffb8bee16a,30 seconds to mosh,0,5
@@ -142,6 +153,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 2b9d9568-cdfc-9947-8fbb-c8587263eb9e,infernal misfits,0,5
 2bcdbcc1-c85d-a39f-f0ca-2c5cae6d9832,out of pocket,0,5
 2c18322d-ea90-6c69-b994-5eff3101ff36,ff & the pancakes,0,5
+2cebce35-3692-446c-078b-bf06ef70f7a9,ff & the pancakes,0,5
 2de0ed71-776d-7cc1-3e92-81c08d0c2e1a,ff & the pancakes,0,5
 2e170c05-6640-ad2a-85e7-37acbf1083ec,infernal misfits,1,5
 2e3f4a3d-4076-65f7-f05e-02079eedd344,ff & the pancakes,1,5
@@ -158,7 +170,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 30271834-6186-658e-0a42-ec9506c65428,out of pocket,1,5
 306e33bc-d445-1d73-5e91-59462defd1e9,ff & the pancakes,0,5
 3125546d-3789-552d-87d9-0b21156d3a98,out of pocket,0,5
-3125546d-3789-552d-87d9-0b21156d3a98,souls in slowmo,1,6
+3125546d-3789-552d-87d9-0b21156d3a98,souls in slowmo,1,5
 31ceb32f-6be2-9dbd-3b25-c6c97ed39340,ycmyccastep7:cheeseawakens,1,5
 31d454e9-8c5e-fe98-cf28-741f63b0bd0b,out of pocket,1,5
 3210efb4-dbcd-7fa7-47a8-43a60d35da48,30 seconds to mosh,1,5
@@ -167,11 +179,15 @@ ReplayFingerPrint,TeamName,Team,Battletag
 331078bb-e87d-9bff-5c77-587c98aef5a7,ycmyccastep7:cheeseawakens,0,5
 3350abc7-6990-d4e4-5028-941018ce4a75,ycmyccastep7:cheeseawakens,0,5
 33564157-0a23-7bf7-4f95-21ed53d32be5,ycmyccastep7:cheeseawakens,0,5
+3362017e-59a9-5277-052a-12f519f686b6,ff & the pancakes,0,5
 3366477f-f3f0-8a49-62c0-c4a7284d7180,out of pocket,0,5
 33c3a73e-61ab-47f3-1a93-184effd982c9,30 seconds to mosh,0,5
+33da4a79-4209-9d36-cb59-1f52d50adade,infernal misfits,0,5
 33dabced-e072-e32a-47cf-6e08f88d1c4a,ff & the pancakes,0,5
 33fc4e9f-762d-113f-873e-77b74715f26d,ycmyccastep7:cheeseawakens,0,5
+34579f09-859b-1b2c-ff9d-7a657c779be5,out of pocket,0,5
 34c402b3-85fb-9829-efb3-ef89d3ffb5a0,30 seconds to mosh,1,5
+351134c1-d13a-53fa-7c6f-2b029dff8b1b,bunker fun time academy,0,5
 35a31ac1-6b6e-5e5f-2ad0-2a4e8272fd5d,30 seconds to mosh,0,5
 35bc3da1-acc6-ee50-e50e-97eb2327eccf,out of pocket,1,5
 35c2784f-bf52-d0f6-1bf4-8905be037bb6,ycmyccastep7:cheeseawakens,1,5
@@ -208,6 +224,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 4039749b-8438-85d5-ed92-7010abf6b0b5,chogall chocolate factory,1,5
 4039749b-8438-85d5-ed92-7010abf6b0b5,out of pocket,0,5
 40540a84-ba9c-5d2e-25cd-1bfd982a3615,infernal misfits,0,5
+409292d5-2a5d-f957-9b9e-752d18e26a55,ff & the pancakes,0,5
 4098f407-fab9-9ebf-5f19-c6cd15e82d46,ycmyccastep7:cheeseawakens,1,5
 4099392e-1305-ac05-814e-6263dc7c20c2,30 seconds to mosh,1,5
 40b3acc2-fedb-e257-aba6-f5eeedcc2656,chogall chocolate factory,0,5
@@ -215,15 +232,20 @@ ReplayFingerPrint,TeamName,Team,Battletag
 40c2fd1f-b2dd-c727-fa41-78a322cd76f5,ff & the pancakes,0,5
 4117ffb6-a63d-38fd-8746-72438577eb34,ff & the pancakes,0,5
 416be9f1-c217-f7d2-f4a2-777d54b67467,30 seconds to mosh,0,5
+41832b94-c795-6e05-fe99-79d6e8712551,30 seconds to mosh,0,5
 41ec2d08-44c7-1100-256a-9f95d1611e05,bunker fun time academy,1,5
 420e3950-5eb3-7795-a39e-68d9804738fe,chogall chocolate factory,0,5
 42202ec2-826f-d39e-bff6-3c572fe5774b,ff & the pancakes,1,5
+4239cf00-d835-b936-6473-a283275adc3f,ff & the pancakes,0,5
+4239cf00-d835-b936-6473-a283275adc3f,souls in slowmo,1,5
 426c2b99-8150-27df-49c7-b5eecb2ead49,ff & the pancakes,1,5
 431bc565-bcc5-e501-dd1a-c1c15b30193e,30 seconds to mosh,0,5
 431bc565-bcc5-e501-dd1a-c1c15b30193e,ltk - we hate obj,1,5
 4396f733-16d5-dcfd-22d0-4f33528dd1b6,ycmyccastep7:cheeseawakens,1,5
 43a2ba7f-a529-223b-f2fb-9ae2191ac742,ff & the pancakes,0,5
 43fc0448-6949-f71d-caa9-a0a775faf75c,infernal misfits,1,5
+4403b8f3-4c90-7bba-cf95-5d9a164c8b65,infernal misfits,0,5
+4403b8f3-4c90-7bba-cf95-5d9a164c8b65,ycmyccastep7:cheeseawakens,1,5
 445b5aca-9150-44ef-e5dc-1206624d2d99,out of pocket,1,5
 4467c8ad-3cbf-0a42-6f37-5e216e3e6dee,30 seconds to mosh,1,5
 4483e158-77dc-f2e3-47ec-5f65b09d7444,ycmyccastep7:cheeseawakens,0,5
@@ -247,7 +269,8 @@ ReplayFingerPrint,TeamName,Team,Battletag
 49790dee-28df-1bcd-b1ba-aa39efe89188,30 seconds to mosh,0,5
 49892df6-cf50-a7d3-1de6-f0e402755beb,ff & the pancakes,1,5
 49f56cd3-95b3-800a-dd3f-c701a940fc9f,30 seconds to mosh,1,5
-49f56cd3-95b3-800a-dd3f-c701a940fc9f,souls in slowmo,0,5
+4a11c645-2c1f-8a5e-da2b-3938b2a94bdb,beyonce gnolls,0,5
+4a11c645-2c1f-8a5e-da2b-3938b2a94bdb,smoke,1,5
 4a1be1ae-2935-3653-4600-3c4a372b89ac,ycmyccastep7:cheeseawakens,0,5
 4ac93a3b-0ce3-1315-a097-2d4f4024f248,ff & the pancakes,0,5
 4c82ed5d-31f8-82e3-a445-96aee1d0205c,30 seconds to mosh,1,5
@@ -286,6 +309,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 5545c7bb-3547-09ee-eca6-bd6c28e133a5,ycmyccastep7:cheeseawakens,0,5
 5565af6c-5fc8-5c5e-558b-857228f584f9,30 seconds to mosh,1,5
 55751002-e61e-7fa2-68c2-bc385042901f,ff & the pancakes,0,5
+557c7874-57b5-576d-7015-5a0ca3ed810a,ltk - we hate obj,1,5
 5596028e-a69e-d4a6-2557-16107a929eeb,infernal misfits,0,5
 5596028e-a69e-d4a6-2557-16107a929eeb,souls in slowmo,1,5
 5663d255-bccf-26be-1764-5c30c968c019,out of pocket,1,5
@@ -311,6 +335,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 5ac0cd9e-22c6-e019-33bc-d5f0cdf5aec2,ff & the pancakes,0,5
 5ac9dae5-c4f3-cb23-a3dd-e018dc94a03d,beyonce gnolls,1,5
 5ac9dae5-c4f3-cb23-a3dd-e018dc94a03d,infernal misfits,0,5
+5ba1e573-0121-a3fe-409f-9dbc507874e0,gold dragons,0,5
 5be53ccf-e7e1-c40f-acdc-9399cfb00445,ltk - we hate obj,0,5
 5c752ffa-b924-1123-6632-bda2bbaad95e,ff & the pancakes,1,5
 5c93aa59-3988-3883-fad4-62488b304af9,ff & the pancakes,0,5
@@ -318,6 +343,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 5cc7c054-517c-6ec9-0673-05a3c1132f24,infernal misfits,0,5
 5d66350e-761e-5fbc-5c84-dc741f626ffa,30 seconds to mosh,0,5
 5d6f75fb-d0c0-74e7-6126-7c05a426f7c4,out of pocket,0,5
+5dc7aa31-ee9b-4be7-4962-17929027432d,ff & the pancakes,1,5
 5de8a2bb-2994-7b84-8338-25cd8286f146,ycmyccastep7:cheeseawakens,0,5
 5e50c6f0-fd36-565f-0ad9-5f6fd1934e48,ff & the pancakes,0,5
 5e64bc61-5ca7-f795-d8ef-08eab1d9c29e,30 seconds to mosh,1,5
@@ -341,12 +367,13 @@ ReplayFingerPrint,TeamName,Team,Battletag
 637700cf-d121-25cd-48c4-321623cbeac0,infernal misfits,1,5
 63f32c28-4d9e-5c45-00db-e6ba091cfdda,out of pocket,0,5
 64747ef4-e982-2a29-20b5-66a8a2b26f47,30 seconds to mosh,0,5
+647a4641-5229-0006-7f37-69d6e3d3cb39,beyonce gnolls,0,5
 64fb1f8c-94e0-e8a7-9eb0-3777c5a066a2,ycmyccastep7:cheeseawakens,1,5
 652d6308-957f-b6cd-8480-87059bd11fe4,30 seconds to mosh,0,5
 6590b890-68f9-3ff6-4fed-f66a76765cc9,out of pocket,1,5
 65c9d4e3-a0c8-f6c2-56e9-a7f67352e580,infernal misfits,0,5
 65de7493-4b22-656c-4f40-87510aadd570,out of pocket,1,5
-6632be63-73c8-f181-6484-77e57be31f0b,souls in slowmo,0,6
+6632be63-73c8-f181-6484-77e57be31f0b,souls in slowmo,0,5
 6637d74a-dc81-6306-d16d-dd332d37fd4e,30 seconds to mosh,1,5
 6650bf47-133e-0452-a049-6ead7f7798ce,beyonce gnolls,0,5
 669c934a-ed97-bda5-0475-df25f7dbe46d,out of pocket,1,5
@@ -356,7 +383,6 @@ ReplayFingerPrint,TeamName,Team,Battletag
 6737bfe2-4c46-309b-35b8-6de5871bf057,gold dragons,1,5
 676bda3a-8930-c054-e111-4badd564abb5,30 seconds to mosh,0,5
 678d515b-c3cf-e497-2779-a95a2d1269c0,30 seconds to mosh,1,5
-679bae83-2792-0711-4d0e-cfa62acb553d,souls in slowmo,0,5
 67a35152-70a3-0e94-2ff4-19808fffd0a6,ff & the pancakes,0,5
 67c4e69e-dbec-c2d6-0012-78e2dbd4ec12,ff & the pancakes,1,5
 67cb9536-a1b5-4bd9-0704-ee4821d21a19,30 seconds to mosh,0,5
@@ -370,6 +396,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 6a092ce5-8cd6-b5ed-129d-70f0d39babd0,out of pocket,0,5
 6a105fb7-a5bc-6169-46f6-0fe18e064249,souls in slowmo,1,5
 6a1b261e-dda5-c5fa-82c5-5aaa2c6b2d8b,30 seconds to mosh,1,5
+6ab036dd-a748-1be7-f946-d65c489d7c6f,ff & the pancakes,0,5
 6ae704a7-3e41-da8e-169e-91937177544c,ycmyccastep7:cheeseawakens,0,5
 6b2a3ad0-cf15-387a-a627-47795d824148,out of pocket,0,5
 6b2db652-4307-e0d5-1750-4addd022b9ce,30 seconds to mosh,0,5
@@ -393,7 +420,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 70b0eaef-4426-59c8-7923-94fad4209d5a,30 seconds to mosh,0,5
 712f650c-8d12-9e70-b8ea-1f23147c0105,30 seconds to mosh,0,5
 71a8670a-08a5-009f-0ad1-96828506af51,ff & the pancakes,1,5
-71d7bc0e-e9b9-4775-8995-8b62842024d8,souls in slowmo,1,6
+71d7bc0e-e9b9-4775-8995-8b62842024d8,souls in slowmo,1,5
 71f255c3-b525-db2b-bd20-7452833317b9,30 seconds to mosh,0,5
 71f255c3-b525-db2b-bd20-7452833317b9,ycmyccastep7:cheeseawakens,1,5
 722b9b51-9cc4-2537-d60f-df181d4dc755,ycmyccastep7:cheeseawakens,1,5
@@ -457,11 +484,12 @@ ReplayFingerPrint,TeamName,Team,Battletag
 811d0295-b9ac-d2c5-bb6f-766a3b9f1830,ycmyccastep7:cheeseawakens,0,5
 81868ad6-db08-3716-8066-30e53667d98f,ff & the pancakes,0,5
 824c067b-d5c2-1d0f-8cd7-c6a21ece8447,out of pocket,1,5
+82664fed-2026-0fa1-3067-748a3a5a0716,souls in slowmo,1,5
 82c08204-5a6f-d11e-fe69-5e40b5fe90ec,out of pocket,0,5
 83645105-8193-9c70-80fc-3ad6311e68d4,ff & the pancakes,1,5
 8474a56f-4fc8-bb22-1341-aadd805f44e4,ff & the pancakes,0,5
 849b3774-0246-47c0-4169-0992604e31f8,smoke,0,5
-84b3999e-0856-be3e-bdb1-2d6aed571d40,souls in slowmo,0,6
+84b3999e-0856-be3e-bdb1-2d6aed571d40,souls in slowmo,0,5
 84e56ee9-3268-a72d-be1a-d8b108c1c20e,out of pocket,0,5
 855a76b5-d843-66d3-8658-61744836a514,ff & the pancakes,0,5
 857e8d7d-a8b0-e9b0-c11f-e266de6f4945,infernal misfits,1,5
@@ -471,6 +499,7 @@ ReplayFingerPrint,TeamName,Team,Battletag
 86cc9df9-dc59-1faf-babe-4e01baf1f4b2,30 seconds to mosh,0,5
 86def25c-2034-17eb-0c58-0c9b3bac4ff6,ff & the pancakes,1,5
 8728b54d-ad75-1474-d75d-2b4a3a28cc23,out of pocket,0,5
+876f1622-de31-4555-7e7c-d8f812d256ed,beyonce gnolls,0,5
 87f6d4cf-c211-7a20-e649-c8d21775ebc0,ycmyccastep7:cheeseawakens,1,5
 88943d1f-9327-b5fb-98e3-ade9e98aaf93,out of pocket,0,5
 893f5f00-2cec-9fc6-0af5-81d1a8fa7490,ycmyccastep7:cheeseawakens,1,5
@@ -486,20 +515,21 @@ ReplayFingerPrint,TeamName,Team,Battletag
 8cd41266-fcc2-5941-1f62-4ba0e1be6d51,ycmyccastep7:cheeseawakens,1,5
 8d144273-b167-09b0-1c9e-f1d494caacaa,30 seconds to mosh,1,5
 8dcaa2a6-be81-b13b-cc90-2708bf53734e,ltk - we hate obj,0,5
-8dcaa2a6-be81-b13b-cc90-2708bf53734e,souls in slowmo,1,6
+8dcaa2a6-be81-b13b-cc90-2708bf53734e,souls in slowmo,1,5
 8e8b9e27-d3e3-b09b-1c78-606c48121228,beyonce gnolls,1,5
 8ed8e18d-78f3-d61e-9013-0298e8b254eb,30 seconds to mosh,0,5
 8f278887-e6da-a3ab-b76e-7017c6fcfa45,ycmyccastep7:cheeseawakens,0,5
 8f66f83e-f8fb-fe26-b77f-bc7b09d4b2ea,30 seconds to mosh,1,5
 90355b96-97e9-7f12-003b-acebe020b8f3,30 seconds to mosh,1,5
-9141d4e0-8c18-da14-c7fa-c5228209b66b,souls in slowmo,1,6
+9141d4e0-8c18-da14-c7fa-c5228209b66b,souls in slowmo,1,5
 91d78b0f-75dd-928b-02e5-ba3dd97cc4a9,out of pocket,1,5
 9229a1e1-880a-075e-ae55-850b206d3108,gold dragons,1,5
 92742ec7-d80e-541b-b171-013587d8269c,ff & the pancakes,1,5
 9278d77e-c6a3-f72d-67d5-ac0ec183fac4,ff & the pancakes,0,5
 9278d77e-c6a3-f72d-67d5-ac0ec183fac4,ycmyccastep7:cheeseawakens,1,5
-9281fd9b-f12f-e54e-e3c8-e26e40f860a5,souls in slowmo,0,5
 928a98b7-3369-05f4-7188-a40153d80762,ff & the pancakes,1,5
+93560909-5414-5d80-52c9-d3e88fa5a70d,gold dragons,1,5
+93560909-5414-5d80-52c9-d3e88fa5a70d,out of pocket,0,5
 93ace8c3-6107-eca3-c2ea-3435b1e78cfd,ycmyccastep7:cheeseawakens,0,5
 93dec487-31fb-f21f-bf26-332cbdeaf405,30 seconds to mosh,1,5
 93f5a654-68b3-5a64-4d43-b9a671c27f33,ycmyccastep7:cheeseawakens,1,5
@@ -516,15 +546,20 @@ ReplayFingerPrint,TeamName,Team,Battletag
 97563524-96ee-b4b3-96a5-ef196304a159,ff & the pancakes,0,5
 97c9f808-0bd4-3504-0214-fa64b90282d8,ycmyccastep7:cheeseawakens,0,5
 97e2c76b-6672-5055-cb71-3d25db2d516e,ff & the pancakes,0,5
+97e57be3-44bd-c7cd-ab5b-aecf5d59e590,30 seconds to mosh,0,5
+97e57be3-44bd-c7cd-ab5b-aecf5d59e590,ycmyccastep7:cheeseawakens,1,5
 9843852a-77ce-3f12-f710-10a6eb278e74,30 seconds to mosh,1,5
 989dd50f-6576-4b9e-17f3-a0d7ea5ac4df,smoke,0,5
 989dd50f-6576-4b9e-17f3-a0d7ea5ac4df,souls in slowmo,1,5
+98ebd392-1f26-9210-5afc-88cf474c95c5,beyonce gnolls,0,5
 9957990e-a136-2317-7b32-be54364c2621,chogall chocolate factory,1,5
 9957990e-a136-2317-7b32-be54364c2621,infernal misfits,0,5
 99763c92-ca7e-546c-0430-f6155f7cca05,beyonce gnolls,0,5
 99763c92-ca7e-546c-0430-f6155f7cca05,infernal misfits,1,5
 99acb1ec-c162-e072-5529-b8417bc3f048,ff & the pancakes,1,5
 99acb1ec-c162-e072-5529-b8417bc3f048,gold dragons,0,5
+99b37a6b-40b5-7051-f514-65d49b40236f,30 seconds to mosh,0,5
+99b37a6b-40b5-7051-f514-65d49b40236f,ycmyccastep7:cheeseawakens,1,5
 99ce3f5c-3440-b1db-7729-913f9ea63c51,ff & the pancakes,0,5
 99ce3f5c-3440-b1db-7729-913f9ea63c51,ycmyccastep7:cheeseawakens,1,5
 99d0280f-41a1-4db1-dc7a-9f92e7fa060c,30 seconds to mosh,1,5
@@ -549,11 +584,12 @@ ReplayFingerPrint,TeamName,Team,Battletag
 9e082872-4325-e692-9c9c-1dd865f386a2,30 seconds to mosh,1,5
 9e439fff-fe7f-91e9-2f63-9c2f3142ad91,ff & the pancakes,1,5
 9e54d85c-86a2-f252-0b0e-130715f644b9,ycmyccastep7:cheeseawakens,1,5
+9e8be2ec-9f7c-79a8-f16d-2d84fdf527b2,souls in slowmo,0,5
 9e9d7976-9078-d297-ba0b-e2f257c1e44b,out of pocket,1,5
 9edf1b46-1236-8289-3b51-6c9deefdb978,ff & the pancakes,0,5
 9f02a536-6050-1b94-071e-7dd05ccd8d95,30 seconds to mosh,0,5
 9f15af28-c7a0-cc3a-e134-28a53e7ad742,bunker fun time academy,1,5
-9f2e83cf-411b-5dee-9128-6b44aedca375,souls in slowmo,0,6
+9f2e83cf-411b-5dee-9128-6b44aedca375,souls in slowmo,0,5
 9f4494b7-50fd-e58e-75f1-f08c306a8e82,out of pocket,1,5
 9f923a98-1451-2835-2fde-030759f30311,ff & the pancakes,1,5
 a08a6bdd-e120-ece2-fc51-69e720f1e016,ycmyccastep7:cheeseawakens,0,5
@@ -574,6 +610,7 @@ a3428d88-ba50-661c-fcea-248a13e31c6b,ff & the pancakes,1,5
 a43042a4-0627-2d50-a47c-74bcbae77bb4,out of pocket,0,5
 a4460535-363a-e6a6-8f13-ab0288c60678,ff & the pancakes,1,5
 a47157c4-4c0d-ac77-b4f3-5037130c500c,out of pocket,0,5
+a4865368-6899-11f2-7ab6-d90739740296,ltk - we hate obj,0,5
 a4a07496-4ea8-c9d7-d7d0-af5a8d00aa63,ff & the pancakes,1,5
 a4a1bb59-61af-ddf2-3e22-ceedfddacc75,30 seconds to mosh,1,5
 a5660765-a4f2-3ae6-22d8-861c5217d8b8,30 seconds to mosh,1,5
@@ -585,8 +622,14 @@ a6d17c91-5afa-7209-f8a7-08da5dfbf6a3,30 seconds to mosh,1,5
 a6eeacda-a48d-61d5-900d-a0cc0e8d72f9,30 seconds to mosh,1,5
 a735a2d7-9c85-a9ac-19e8-b5f71476521c,ff & the pancakes,0,5
 a79c4591-15e6-1171-6445-d123f74c2680,infernal misfits,1,5
+a7ca0a31-33bc-9cad-f747-8a6eaa0f7c2e,gold dragons,1,5
+a7ca0a31-33bc-9cad-f747-8a6eaa0f7c2e,out of pocket,0,5
 a7cb6b7d-a47c-bd84-b906-30c6e78164cc,gold dragons,0,5
+a80ba4b6-bad6-5c90-70d8-fc8604bf81f6,out of pocket,1,5
 a88c1e0e-0b18-c2e1-b1a8-cc4b6f51cdf6,ff & the pancakes,0,5
+a8cb2ee5-3889-a944-be8a-c5423a9ce089,gold dragons,1,5
+a8cb2ee5-3889-a944-be8a-c5423a9ce089,out of pocket,0,5
+a8f21334-235e-5f5f-f986-a6afcf1bb47e,beyonce gnolls,0,5
 a91a77f2-4e59-64ed-2476-3ee03fea8d1e,ff & the pancakes,1,5
 a92675b8-6ce1-9620-4d55-9fe98be15571,30 seconds to mosh,0,5
 a95ff1bc-9e30-6da1-947a-9ebdce590077,ff & the pancakes,1,5
@@ -603,8 +646,10 @@ ab73cf61-dfb3-e1dc-0518-2c8e9ed5da4e,30 seconds to mosh,0,5
 abbb4693-964a-358a-9324-eca18eeb4beb,out of pocket,1,5
 acad1fb5-78fe-ec80-fc6e-f5eceaee3f6b,ff & the pancakes,0,5
 acc4eafa-0ae3-60bc-dbf7-02ec43ff4bce,30 seconds to mosh,0,5
+acc56f38-f6b4-89dc-24d6-500a91af22c3,30 seconds to mosh,1,5
 ad2544a8-1f88-8fb3-40c5-aa6d0edf5f0c,30 seconds to mosh,1,5
 ad50bad1-c184-d792-2553-3b0b269e94e8,ff & the pancakes,0,5
+ad55a4d1-cf46-9f1e-58fa-d413f80cd515,souls in slowmo,1,5
 ad57c1a0-5f2c-208c-a66f-38b6445c9318,out of pocket,1,5
 ad805fb1-2aae-f7c6-5b75-9ec04cf3c300,ff & the pancakes,1,5
 ad918694-a51c-f0d0-90ee-5824e6f2973a,30 seconds to mosh,0,5
@@ -612,7 +657,7 @@ ade2fe65-8f0d-78a1-c82f-6450cd2f7543,ycmyccastep7:cheeseawakens,0,5
 ae66c675-d956-8230-5081-01cd38afdb04,30 seconds to mosh,1,5
 ae892177-3464-32a7-e0bd-d0f8eec83391,ycmyccastep7:cheeseawakens,1,5
 ae97e5b9-45a2-3a13-eb09-e38fdd28adb8,out of pocket,0,5
-ae97e5b9-45a2-3a13-eb09-e38fdd28adb8,souls in slowmo,1,6
+ae97e5b9-45a2-3a13-eb09-e38fdd28adb8,souls in slowmo,1,5
 aecf278c-05cb-1838-ec99-229af9e9f12f,ff & the pancakes,1,5
 aef551cb-b2e3-f648-6ab8-2537c32167dd,ff & the pancakes,1,5
 af31b390-99b6-264a-0b59-65cee8e05403,ff & the pancakes,1,5
@@ -639,6 +684,7 @@ b4e2e294-9aaa-e5cc-4162-852e02862679,ff & the pancakes,0,5
 b522a020-1e78-b1b5-1114-8881a30343f1,ycmyccastep7:cheeseawakens,0,5
 b52af05f-6ed8-5e5d-4dbe-db5d76d44f1c,gold dragons,1,5
 b5cb502d-4d6b-634f-8606-942df43c892f,ff & the pancakes,1,5
+b5ea0cce-5098-9a45-be4c-a3d755c57df2,30 seconds to mosh,1,5
 b69be7c0-9172-3f1a-e8ad-49f3b44de36b,ycmyccastep7:cheeseawakens,1,5
 b6a983b9-fc09-4a05-e9ed-a1d18ec0e3bc,ff & the pancakes,0,5
 b73aeea6-cd7a-308c-1f0a-c9943d4c4477,30 seconds to mosh,1,5
@@ -676,15 +722,17 @@ c1a3344c-b59e-325d-facc-9e812e9668be,beyonce gnolls,1,5
 c1c16d96-9b92-c0ce-9502-7240fc625a4d,30 seconds to mosh,1,5
 c259af39-84c3-8381-df2a-05325be4c42d,30 seconds to mosh,0,5
 c259b6e0-446f-4e9c-4a5a-c8fffe8a815d,30 seconds to mosh,1,5
+c29a17da-4bdd-dfa3-9661-54b3ea111b97,ltk - we hate obj,0,5
 c2d1d970-abe0-2640-d43c-4bf4967ec381,30 seconds to mosh,1,5
 c2d1d970-abe0-2640-d43c-4bf4967ec381,gold dragons,0,5
 c2f98a32-4782-6348-bc62-29af94eb4711,out of pocket,0,5
 c30405f8-cf28-c16f-0154-0602fda73640,ff & the pancakes,0,5
 c31746e0-68a6-181a-539d-30b182778472,30 seconds to mosh,1,5
 c322a0fe-99c9-dd21-cb62-25705bd564a5,infernal misfits,0,5
+c3316497-cda0-c2a5-5a83-4b71092eaac9,ff & the pancakes,0,5
 c436719e-f01f-0be2-4a5c-fdfef0bbef71,ff & the pancakes,1,5
 c43a0213-afe2-5bf7-f7e9-40f5152d27be,ltk - we hate obj,0,5
-c43a0213-afe2-5bf7-f7e9-40f5152d27be,souls in slowmo,1,6
+c43a0213-afe2-5bf7-f7e9-40f5152d27be,souls in slowmo,1,5
 c58ba716-8d39-913c-8f3e-c96f236f801e,ycmyccastep7:cheeseawakens,0,5
 c59a4869-731e-7c9c-482e-f1e5350c372a,ff & the pancakes,1,5
 c68e6a36-80e6-1909-3528-d5d6c7268089,ff & the pancakes,1,5
@@ -701,6 +749,7 @@ cbb3fc21-9226-d396-d046-b22821512083,ycmyccastep7:cheeseawakens,1,5
 cbb80e2d-9a68-3cc1-9f53-5c95656743bc,30 seconds to mosh,1,5
 cc116cb2-0518-d429-347c-eedf46aaef86,30 seconds to mosh,0,5
 cc28d9fc-10b8-bcba-5928-f62740a9ade3,30 seconds to mosh,1,5
+cc666207-c25c-091b-fa74-2284d1e3b987,out of pocket,0,5
 cceb0cf6-65aa-d19e-9d05-3606ffc1668a,30 seconds to mosh,0,5
 cd0d6039-02c2-97a9-c54d-e42d6aef54d3,out of pocket,1,5
 cd3474c9-0f84-5cc7-f7c4-729fa3a8bba6,30 seconds to mosh,0,5
@@ -716,7 +765,7 @@ d0ca2333-9026-15b1-1f6b-c16981d73c61,ycmyccastep7:cheeseawakens,0,5
 d1454146-c8ab-5c4a-cbc7-539ffe4ec2cd,ycmyccastep7:cheeseawakens,1,5
 d14fee2d-8428-e5cc-2b59-cf81dd954b08,ff & the pancakes,1,5
 d1a3ea43-b6a1-8fad-2617-cdee8880d31c,30 seconds to mosh,0,5
-d1bebef0-37ae-c4d6-f550-1bc0e577a757,souls in slowmo,0,6
+d1bebef0-37ae-c4d6-f550-1bc0e577a757,souls in slowmo,0,5
 d1c731e9-2d7d-2d4f-c48a-2989419e2cf3,out of pocket,0,5
 d2292c47-1ca4-848c-eb0f-7e8b95789d36,ff & the pancakes,0,5
 d28f5b5f-6667-54c1-8b05-a14c5eddebb5,30 seconds to mosh,0,5
@@ -730,6 +779,7 @@ d59854c4-6870-5601-caeb-00c869006547,ff & the pancakes,1,5
 d5f07f37-1674-e27b-9db6-b8aa10dbef9c,ff & the pancakes,1,5
 d61f82c8-aeca-f2a4-7088-13bee4abfe40,ff & the pancakes,0,5
 d643af33-8e08-982b-0901-e47344e22992,out of pocket,0,5
+d645320c-495a-74fb-a1c2-09733aed1a02,ltk - we hate obj,0,5
 d6a7c2b0-d98a-6327-2532-0bf6d3e10e15,ff & the pancakes,1,5
 d79d64fb-0205-16e9-3466-bc182c7a5824,ff & the pancakes,1,5
 d809a6f8-c0cc-fe76-61fe-ab5a07b4950d,ff & the pancakes,0,5
@@ -742,6 +792,8 @@ d9dbdaf8-0e31-1146-f08e-0aed691ba035,ycmyccastep7:cheeseawakens,0,5
 d9fc801c-7d14-dba4-c517-23f9a2c86919,ycmyccastep7:cheeseawakens,1,5
 da15ea23-e030-60fd-dbc1-8bd480930dd0,gold dragons,1,5
 da2ded3e-97be-ff68-8845-c8c0c03d842f,ff & the pancakes,0,5
+daacf265-0a08-41fd-e7d9-d1836a2f951b,30 seconds to mosh,0,5
+daacf265-0a08-41fd-e7d9-d1836a2f951b,ycmyccastep7:cheeseawakens,1,5
 dac22860-ab26-0840-f494-ff4e231e51ee,30 seconds to mosh,1,5
 daecc863-f9d4-e31e-30c4-a50e54496266,ff & the pancakes,1,5
 daf85638-1784-b423-3e33-289f88f116b2,ycmyccastep7:cheeseawakens,1,5
@@ -793,6 +845,8 @@ e8d0f91b-ee0b-0bd6-77ae-e08a0084f038,30 seconds to mosh,0,5
 e8fc81b5-9990-5455-9773-e5dfb87885b1,ycmyccastep7:cheeseawakens,1,5
 e902fcd7-7c42-f57e-9626-624127af1e79,30 seconds to mosh,0,5
 e99280f7-e853-827d-a268-4d5dd556e40a,ff & the pancakes,0,5
+ea7be44a-783e-e267-6e85-725654badc69,infernal misfits,0,5
+ea7be44a-783e-e267-6e85-725654badc69,ycmyccastep7:cheeseawakens,1,5
 ea7ec257-9270-5555-a072-ccc1bf4336e0,ff & the pancakes,1,5
 eacde522-90ee-cbb0-1823-77ce02485c47,30 seconds to mosh,1,5
 eb06a93f-db86-1666-7d5a-e34d84029772,ff & the pancakes,0,5
@@ -804,6 +858,7 @@ ec33cd53-2b50-69a6-db28-9fea08ef4ea9,ff & the pancakes,1,5
 ec5a8115-655c-8600-a03d-2a255af1c082,ff & the pancakes,0,5
 ec871383-59d6-252b-01ca-58d2346d3228,out of pocket,0,5
 ec8fef42-6dc9-fd72-3a61-096b8e0784f3,ycmyccastep7:cheeseawakens,0,5
+ecc7e314-be5f-0386-8209-d328c602667d,out of pocket,1,5
 ecd6c5bd-9f5f-bbed-3c1f-f5f647544e97,30 seconds to mosh,1,5
 ecef30d2-d0b5-d17a-fd1c-044ebe9f137c,infernal misfits,0,5
 ecfab34d-6f3f-5882-23b5-4b3f1ba275fc,out of pocket,0,5
@@ -825,6 +880,7 @@ f30fff04-d948-9519-f93c-81a39050e39e,ff & the pancakes,0,5
 f36bd17e-c568-1d1a-6d74-163629b37915,ff & the pancakes,1,5
 f376c149-1fd7-cfa7-853b-599835503f2a,ycmyccastep7:cheeseawakens,1,5
 f40fd9b4-bea6-a1c6-2264-01a7961415dc,30 seconds to mosh,1,5
+f41aafac-a522-9174-6138-246410a55126,ff & the pancakes,1,5
 f42cc2bd-9f28-55e9-adc6-47680f634a82,beyonce gnolls,0,5
 f42cc2bd-9f28-55e9-adc6-47680f634a82,out of pocket,1,5
 f47079cd-6e6b-e5fa-a1f0-6546bfae9283,ff & the pancakes,0,5
@@ -854,8 +910,6 @@ fa833f58-b986-66f3-a052-4f5cec7a9495,ycmyccastep7:cheeseawakens,1,5
 fa920054-9518-c45c-eeee-d810d2bb21e5,ff & the pancakes,0,5
 fb52d476-5e2a-1454-85f1-c284b462eed5,out of pocket,1,5
 fb9f1e64-cd35-429b-40fe-895a0205f64d,ff & the pancakes,0,5
-fc781b3d-0a31-48a2-8aa3-f82e9f50adb4,souls in slowmo,1,5
-fcdcb46e-3ef7-a958-88f9-2cd4809fa27a,souls in slowmo,0,5
 fceba417-d21f-ab91-884d-d191c5795c2b,ycmyccastep7:cheeseawakens,1,5
 fd2a4489-c674-e2c4-3c0e-580c6c147606,out of pocket,1,5
 fd34d866-b6f4-f4c6-9b1b-c68007cb0ea3,ff & the pancakes,1,5
