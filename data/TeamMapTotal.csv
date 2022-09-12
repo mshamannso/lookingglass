@@ -1,16 +1,16 @@
 ,TeamName,MapName,Games,Wins,WinRate
-0,30 seconds to mosh,Alterac Pass,22,12,0.55
+0,30 seconds to mosh,Alterac Pass,23,12,0.52
 1,30 seconds to mosh,Battlefield of Eternity,23,12,0.52
 2,30 seconds to mosh,Blackheart's Bay,6,2,0.33
-3,30 seconds to mosh,Braxis Holdout,18,8,0.44
+3,30 seconds to mosh,Braxis Holdout,19,9,0.47
 4,30 seconds to mosh,Cursed Hollow,11,7,0.64
-5,30 seconds to mosh,Dragon Shire,18,9,0.5
-6,30 seconds to mosh,Garden of Terror,15,6,0.4
+5,30 seconds to mosh,Dragon Shire,19,10,0.53
+6,30 seconds to mosh,Garden of Terror,17,7,0.41
 7,30 seconds to mosh,Hanamura Temple,15,7,0.47
-8,30 seconds to mosh,Infernal Shrines,18,12,0.67
+8,30 seconds to mosh,Infernal Shrines,19,12,0.63
 9,30 seconds to mosh,Sky Temple,17,9,0.53
 10,30 seconds to mosh,Tomb of the Spider Queen,20,10,0.5
-11,30 seconds to mosh,Towers of Doom,27,14,0.52
+11,30 seconds to mosh,Towers of Doom,28,15,0.54
 12,30 seconds to mosh,Volskaya Foundry,6,4,0.67
 13,30 seconds to mosh,Warhead Junction,12,6,0.5
 14,beyonce gnolls,Alterac Pass,2,1,0.5
@@ -18,120 +18,119 @@
 16,beyonce gnolls,Blackheart's Bay,1,1,1.0
 17,beyonce gnolls,Braxis Holdout,2,0,0.0
 18,beyonce gnolls,Cursed Hollow,1,0,0.0
-19,beyonce gnolls,Dragon Shire,6,2,0.33
-20,beyonce gnolls,Garden of Terror,1,1,1.0
+19,beyonce gnolls,Dragon Shire,7,2,0.29
+20,beyonce gnolls,Garden of Terror,2,1,0.5
 21,beyonce gnolls,Haunted Mines,1,1,1.0
-22,beyonce gnolls,Infernal Shrines,2,0,0.0
-23,beyonce gnolls,Sky Temple,1,1,1.0
-24,beyonce gnolls,Tomb of the Spider Queen,2,1,0.5
+22,beyonce gnolls,Infernal Shrines,3,0,0.0
+23,beyonce gnolls,Sky Temple,2,2,1.0
+24,beyonce gnolls,Tomb of the Spider Queen,5,2,0.4
 25,beyonce gnolls,Towers of Doom,4,1,0.25
 26,beyonce gnolls,Volskaya Foundry,2,1,0.5
 27,beyonce gnolls,Warhead Junction,1,0,0.0
-28,bunker fun time academy,Battlefield of Eternity,1,0,0.0
+28,bunker fun time academy,Battlefield of Eternity,3,1,0.33
 29,bunker fun time academy,Braxis Holdout,1,1,1.0
-30,bunker fun time academy,Garden of Terror,1,1,1.0
-31,bunker fun time academy,Hanamura Temple,1,1,1.0
-32,bunker fun time academy,Sky Temple,2,1,0.5
-33,bunker fun time academy,Towers of Doom,1,0,0.0
-34,chogall chocolate factory,Alterac Pass,1,1,1.0
-35,chogall chocolate factory,Battlefield of Eternity,2,2,1.0
-36,chogall chocolate factory,Blackheart's Bay,1,1,1.0
-37,chogall chocolate factory,Cursed Hollow,1,1,1.0
-38,chogall chocolate factory,Dragon Shire,2,0,0.0
-39,chogall chocolate factory,Garden of Terror,1,0,0.0
-40,chogall chocolate factory,Infernal Shrines,3,2,0.67
-41,chogall chocolate factory,Sky Temple,1,1,1.0
-42,chogall chocolate factory,Tomb of the Spider Queen,3,2,0.67
-43,chogall chocolate factory,Towers of Doom,2,1,0.5
-44,ff & the pancakes,Alterac Pass,15,9,0.6
-45,ff & the pancakes,Battlefield of Eternity,21,11,0.52
-46,ff & the pancakes,Blackheart's Bay,3,1,0.33
-47,ff & the pancakes,Braxis Holdout,19,13,0.68
-48,ff & the pancakes,Cursed Hollow,18,8,0.44
-49,ff & the pancakes,Dragon Shire,30,18,0.6
-50,ff & the pancakes,Garden of Terror,27,11,0.41
-51,ff & the pancakes,Hanamura Temple,26,15,0.58
-52,ff & the pancakes,Infernal Shrines,40,23,0.57
-53,ff & the pancakes,Sky Temple,14,5,0.36
-54,ff & the pancakes,Tomb of the Spider Queen,35,19,0.54
-55,ff & the pancakes,Towers of Doom,28,14,0.5
-56,ff & the pancakes,Volskaya Foundry,9,5,0.56
-57,ff & the pancakes,Warhead Junction,20,10,0.5
-58,gold dragons,Battlefield of Eternity,4,0,0.0
-59,gold dragons,Blackheart's Bay,1,0,0.0
-60,gold dragons,Braxis Holdout,5,3,0.6
-61,gold dragons,Cursed Hollow,2,0,0.0
-62,gold dragons,Dragon Shire,3,3,1.0
-63,gold dragons,Garden of Terror,2,1,0.5
-64,gold dragons,Infernal Shrines,3,0,0.0
-65,gold dragons,Towers of Doom,1,1,1.0
-66,gold dragons,Warhead Junction,3,1,0.33
-67,infernal misfits,Alterac Pass,2,2,1.0
-68,infernal misfits,Battlefield of Eternity,6,5,0.83
-69,infernal misfits,Blackheart's Bay,1,1,1.0
-70,infernal misfits,Braxis Holdout,1,1,1.0
-71,infernal misfits,Cursed Hollow,1,1,1.0
-72,infernal misfits,Dragon Shire,5,4,0.8
-73,infernal misfits,Garden of Terror,6,4,0.67
-74,infernal misfits,Hanamura Temple,4,2,0.5
-75,infernal misfits,Infernal Shrines,6,5,0.83
-76,infernal misfits,Sky Temple,3,3,1.0
-77,infernal misfits,Tomb of the Spider Queen,8,6,0.75
-78,infernal misfits,Towers of Doom,7,6,0.86
-79,infernal misfits,Volskaya Foundry,1,0,0.0
-80,infernal misfits,Warhead Junction,2,2,1.0
-81,ltk - we hate obj,Alterac Pass,1,0,0.0
-82,ltk - we hate obj,Battlefield of Eternity,3,3,1.0
-83,ltk - we hate obj,Braxis Holdout,5,4,0.8
-84,ltk - we hate obj,Cursed Hollow,2,2,1.0
-85,ltk - we hate obj,Dragon Shire,1,0,0.0
-86,ltk - we hate obj,Hanamura Temple,1,1,1.0
-87,ltk - we hate obj,Tomb of the Spider Queen,3,1,0.33
-88,ltk - we hate obj,Towers of Doom,2,0,0.0
-89,out of pocket,Alterac Pass,13,3,0.23
-90,out of pocket,Battlefield of Eternity,8,4,0.5
-91,out of pocket,Braxis Holdout,5,2,0.4
-92,out of pocket,Cursed Hollow,4,2,0.5
-93,out of pocket,Dragon Shire,9,6,0.67
-94,out of pocket,Garden of Terror,8,5,0.62
-95,out of pocket,Hanamura Temple,8,2,0.25
-96,out of pocket,Infernal Shrines,8,1,0.12
-97,out of pocket,Sky Temple,11,2,0.18
-98,out of pocket,Tomb of the Spider Queen,8,3,0.38
-99,out of pocket,Towers of Doom,7,4,0.57
-100,out of pocket,Volskaya Foundry,1,0,0.0
-101,out of pocket,Warhead Junction,4,2,0.5
-102,smoke,Alterac Pass,2,2,1.0
-103,smoke,Battlefield of Eternity,1,1,1.0
-104,smoke,Braxis Holdout,1,0,0.0
-105,smoke,Dragon Shire,1,1,1.0
-106,smoke,Tomb of the Spider Queen,1,1,1.0
-107,souls in slowmo,Alterac Pass,2,0,0.0
-108,souls in slowmo,Battlefield of Eternity,2,1,0.5
-109,souls in slowmo,Braxis Holdout,2,1,0.5
-110,souls in slowmo,Cursed Hollow,3,2,0.67
-111,souls in slowmo,Dragon Shire,3,0,0.0
-112,souls in slowmo,Garden of Terror,6,3,0.5
-113,souls in slowmo,Hanamura Temple,1,1,1.0
-114,souls in slowmo,Infernal Shrines,3,1,0.33
-115,souls in slowmo,Sky Temple,2,1,0.5
-116,souls in slowmo,Tomb of the Spider Queen,4,1,0.25
-117,souls in slowmo,Towers of Doom,1,0,0.0
-118,souls in slowmo,Warhead Junction,1,0,0.0
-119,ycmyccastep7:cheeseawakens,Alterac Pass,4,1,0.25
-120,ycmyccastep7:cheeseawakens,Battlefield of Eternity,14,8,0.57
-121,ycmyccastep7:cheeseawakens,Blackheart's Bay,3,2,0.67
-122,ycmyccastep7:cheeseawakens,Braxis Holdout,7,2,0.29
-123,ycmyccastep7:cheeseawakens,Cursed Hollow,6,0,0.0
-124,ycmyccastep7:cheeseawakens,Dragon Shire,2,2,1.0
-125,ycmyccastep7:cheeseawakens,Garden of Terror,7,4,0.57
-126,ycmyccastep7:cheeseawakens,Hanamura Temple,4,2,0.5
-127,ycmyccastep7:cheeseawakens,Haunted Mines,1,0,0.0
-128,ycmyccastep7:cheeseawakens,Infernal Shrines,13,8,0.62
-129,ycmyccastep7:cheeseawakens,Lost Cavern,3,0,0.0
-130,ycmyccastep7:cheeseawakens,Silver City,3,0,0.0
-131,ycmyccastep7:cheeseawakens,Sky Temple,11,5,0.45
-132,ycmyccastep7:cheeseawakens,Tomb of the Spider Queen,11,6,0.55
-133,ycmyccastep7:cheeseawakens,Towers of Doom,12,5,0.42
-134,ycmyccastep7:cheeseawakens,Volskaya Foundry,5,2,0.4
-135,ycmyccastep7:cheeseawakens,Warhead Junction,6,5,0.83
+30,bunker fun time academy,Dragon Shire,2,0,0.0
+31,bunker fun time academy,Garden of Terror,1,1,1.0
+32,bunker fun time academy,Hanamura Temple,1,1,1.0
+33,bunker fun time academy,Infernal Shrines,1,0,0.0
+34,bunker fun time academy,Sky Temple,2,1,0.5
+35,bunker fun time academy,Tomb of the Spider Queen,1,0,0.0
+36,bunker fun time academy,Towers of Doom,2,0,0.0
+37,ff & the pancakes,Alterac Pass,15,9,0.6
+38,ff & the pancakes,Battlefield of Eternity,21,11,0.52
+39,ff & the pancakes,Blackheart's Bay,3,1,0.33
+40,ff & the pancakes,Braxis Holdout,19,13,0.68
+41,ff & the pancakes,Cursed Hollow,18,8,0.44
+42,ff & the pancakes,Dragon Shire,30,18,0.6
+43,ff & the pancakes,Garden of Terror,27,11,0.41
+44,ff & the pancakes,Hanamura Temple,26,15,0.58
+45,ff & the pancakes,Infernal Shrines,41,24,0.59
+46,ff & the pancakes,Sky Temple,15,5,0.33
+47,ff & the pancakes,Tomb of the Spider Queen,36,19,0.53
+48,ff & the pancakes,Towers of Doom,28,14,0.5
+49,ff & the pancakes,Volskaya Foundry,9,5,0.56
+50,ff & the pancakes,Warhead Junction,20,10,0.5
+51,gold dragons,Alterac Pass,1,0,0.0
+52,gold dragons,Battlefield of Eternity,5,1,0.2
+53,gold dragons,Blackheart's Bay,1,0,0.0
+54,gold dragons,Braxis Holdout,5,3,0.6
+55,gold dragons,Cursed Hollow,2,0,0.0
+56,gold dragons,Dragon Shire,3,3,1.0
+57,gold dragons,Garden of Terror,3,1,0.33
+58,gold dragons,Infernal Shrines,3,0,0.0
+59,gold dragons,Sky Temple,1,0,0.0
+60,gold dragons,Towers of Doom,1,1,1.0
+61,gold dragons,Volskaya Foundry,1,0,0.0
+62,gold dragons,Warhead Junction,3,1,0.33
+63,infernal misfits,Alterac Pass,3,2,0.67
+64,infernal misfits,Battlefield of Eternity,7,6,0.86
+65,infernal misfits,Blackheart's Bay,2,2,1.0
+66,infernal misfits,Braxis Holdout,3,3,1.0
+67,infernal misfits,Cursed Hollow,1,1,1.0
+68,infernal misfits,Dragon Shire,7,6,0.86
+69,infernal misfits,Garden of Terror,8,5,0.62
+70,infernal misfits,Hanamura Temple,6,4,0.67
+71,infernal misfits,Infernal Shrines,9,7,0.78
+72,infernal misfits,Sky Temple,5,4,0.8
+73,infernal misfits,Tomb of the Spider Queen,9,7,0.78
+74,infernal misfits,Towers of Doom,8,7,0.88
+75,infernal misfits,Volskaya Foundry,1,0,0.0
+76,infernal misfits,Warhead Junction,4,2,0.5
+77,ltk - we hate obj,Alterac Pass,1,0,0.0
+78,ltk - we hate obj,Battlefield of Eternity,3,3,1.0
+79,ltk - we hate obj,Braxis Holdout,5,4,0.8
+80,ltk - we hate obj,Cursed Hollow,2,2,1.0
+81,ltk - we hate obj,Dragon Shire,1,0,0.0
+82,ltk - we hate obj,Hanamura Temple,1,1,1.0
+83,ltk - we hate obj,Infernal Shrines,1,1,1.0
+84,ltk - we hate obj,Tomb of the Spider Queen,3,1,0.33
+85,ltk - we hate obj,Towers of Doom,3,1,0.33
+86,out of pocket,Alterac Pass,13,3,0.23
+87,out of pocket,Battlefield of Eternity,9,4,0.44
+88,out of pocket,Braxis Holdout,5,2,0.4
+89,out of pocket,Cursed Hollow,4,2,0.5
+90,out of pocket,Dragon Shire,9,6,0.67
+91,out of pocket,Garden of Terror,8,5,0.62
+92,out of pocket,Hanamura Temple,8,2,0.25
+93,out of pocket,Infernal Shrines,8,1,0.12
+94,out of pocket,Sky Temple,11,2,0.18
+95,out of pocket,Tomb of the Spider Queen,9,3,0.33
+96,out of pocket,Towers of Doom,7,4,0.57
+97,out of pocket,Volskaya Foundry,1,0,0.0
+98,out of pocket,Warhead Junction,4,2,0.5
+99,smoke,Alterac Pass,2,2,1.0
+100,smoke,Battlefield of Eternity,1,1,1.0
+101,smoke,Braxis Holdout,1,0,0.0
+102,smoke,Cursed Hollow,2,1,0.5
+103,smoke,Dragon Shire,2,2,1.0
+104,smoke,Infernal Shrines,1,1,1.0
+105,smoke,Tomb of the Spider Queen,2,2,1.0
+106,souls in slowmo,Alterac Pass,3,0,0.0
+107,souls in slowmo,Battlefield of Eternity,2,1,0.5
+108,souls in slowmo,Braxis Holdout,3,1,0.33
+109,souls in slowmo,Cursed Hollow,3,2,0.67
+110,souls in slowmo,Dragon Shire,3,0,0.0
+111,souls in slowmo,Garden of Terror,7,4,0.57
+112,souls in slowmo,Hanamura Temple,1,1,1.0
+113,souls in slowmo,Infernal Shrines,4,2,0.5
+114,souls in slowmo,Sky Temple,2,1,0.5
+115,souls in slowmo,Tomb of the Spider Queen,5,2,0.4
+116,souls in slowmo,Towers of Doom,1,0,0.0
+117,souls in slowmo,Warhead Junction,2,0,0.0
+118,ycmyccastep7:cheeseawakens,Alterac Pass,4,1,0.25
+119,ycmyccastep7:cheeseawakens,Battlefield of Eternity,15,8,0.53
+120,ycmyccastep7:cheeseawakens,Blackheart's Bay,3,2,0.67
+121,ycmyccastep7:cheeseawakens,Braxis Holdout,7,2,0.29
+122,ycmyccastep7:cheeseawakens,Cursed Hollow,6,0,0.0
+123,ycmyccastep7:cheeseawakens,Dragon Shire,2,2,1.0
+124,ycmyccastep7:cheeseawakens,Garden of Terror,7,4,0.57
+125,ycmyccastep7:cheeseawakens,Hanamura Temple,4,2,0.5
+126,ycmyccastep7:cheeseawakens,Haunted Mines,1,0,0.0
+127,ycmyccastep7:cheeseawakens,Infernal Shrines,13,8,0.62
+128,ycmyccastep7:cheeseawakens,Lost Cavern,3,0,0.0
+129,ycmyccastep7:cheeseawakens,Silver City,3,0,0.0
+130,ycmyccastep7:cheeseawakens,Sky Temple,12,6,0.5
+131,ycmyccastep7:cheeseawakens,Tomb of the Spider Queen,12,6,0.5
+132,ycmyccastep7:cheeseawakens,Towers of Doom,12,5,0.42
+133,ycmyccastep7:cheeseawakens,Volskaya Foundry,6,3,0.5
+134,ycmyccastep7:cheeseawakens,Warhead Junction,6,5,0.83
